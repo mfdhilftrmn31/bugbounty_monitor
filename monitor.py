@@ -6,13 +6,15 @@ from datetime import datetime
 TELEGRAM_TOKEN = os.environ['TELEGRAM_BOT_TOKEN']
 CHAT_ID = os.environ['TELEGRAM_CHAT_ID']
 STATE_FILE = 'known_programs.json'
+BASE_URL = "https://raw.githubusercontent.com/arkadiyt/bounty-targets-data/main/data"
 
 def send_telegram(message):
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
     payload = {
         'chat_id': CHAT_ID,
         'text': message,
-        'parse_mode': 'HTML'
+        'parse_mode': 'HTML',
+        'disable_web_page_preview': True
     }
     try:
         requests.post(url, json=payload, timeout=10)
@@ -23,34 +25,31 @@ def load_known():
     if os.path.exists(STATE_FILE):
         with open(STATE_FILE) as f:
             return json.load(f)
-    return None  # None = pertama kali jalan
+    return None
 
 def save_known(data):
     with open(STATE_FILE, 'w') as f:
         json.dump(data, f, indent=2)
 
+def fetch_json(url):
+    headers = {'User-Agent': 'Mozilla/5.0'}
+    r = requests.get(url, headers=headers, timeout=15)
+    return r.json()
+
 def check_hackerone():
     programs = []
     try:
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
-            'Accept': 'application/json',
-        }
-        for page in range(1, 4):  # Cek 3 halaman
-            url = f"https://hackerone.com/programs/search?query=type%3Ahackerone&sort=published_at%3Adescending&page={page}"
-            r = requests.get(url, headers=headers, timeout=15)
-            data = r.json()
-            results = data.get('results', [])
-            if not results:
-                break
-            for p in results:
-                programs.append({
-                    'id': f"h1_{p.get('handle')}",
-                    'name': p.get('name', 'Unknown'),
-                    'platform': 'HackerOne',
-                    'url': f"https://hackerone.com/{p.get('handle')}",
-                    'bounty': p.get('offers_bounties', False)
-                })
+        data = fetch_json(f"{BASE_URL}/hackerone_data.json")
+        for p in data:
+            offers_bounties = p.get('offers_bounties', False)
+            programs.append({
+                'id': f"h1_{p.get('handle')}",
+                'name': p.get('name', p.get('handle', 'Unknown')),
+                'platform': 'HackerOne',
+                'url': f"https://hackerone.com/{p.get('handle')}",
+                'bounty': offers_bounties,
+                'date': p.get('launched_at', '-')[:10] if p.get('launched_at') else '-'
+            })
     except Exception as e:
         print(f"HackerOne error: {e}")
     return programs
@@ -58,22 +57,16 @@ def check_hackerone():
 def check_bugcrowd():
     programs = []
     try:
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
-            'Accept': 'application/json',
-            'X-Requested-With': 'XMLHttpRequest',
-            'Referer': 'https://bugcrowd.com/programs'
-        }
-        url = "https://bugcrowd.com/programs.json?sort[]=promoted-desc&hidden[]=false&page=1"
-        r = requests.get(url, headers=headers, timeout=15)
-        data = r.json()
-        for p in data.get('programs', []):
+        data = fetch_json(f"{BASE_URL}/bugcrowd_data.json")
+        for p in data:
+            max_payout = p.get('max_payout', 0) or 0
             programs.append({
-                'id': f"bc_{p.get('code')}",
-                'name': p.get('name', 'Unknown'),
+                'id': f"bc_{p.get('handle')}",
+                'name': p.get('name', p.get('handle', 'Unknown')),
                 'platform': 'Bugcrowd',
-                'url': f"https://bugcrowd.com/{p.get('code')}",
-                'bounty': p.get('max_payout', 0) > 0
+                'url': f"https://bugcrowd.com/{p.get('handle')}",
+                'bounty': max_payout > 0,
+                'date': p.get('started_accepting_at', '-')[:10] if p.get('started_accepting_at') else '-'
             })
     except Exception as e:
         print(f"Bugcrowd error: {e}")
@@ -82,20 +75,19 @@ def check_bugcrowd():
 def check_intigriti():
     programs = []
     try:
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
-            'Accept': 'application/json',
-        }
-        url = "https://api.intigriti.com/core/researcher/programs?limit=20&offset=0&status=open&sort=created_at&order=desc"
-        r = requests.get(url, headers=headers, timeout=15)
-        data = r.json()
-        for p in data.get('records', []):
+        data = fetch_json(f"{BASE_URL}/intigriti_data.json")
+        for p in data:
+            handle = p.get('handle', '')
+            company = p.get('company_handle', handle)
+            min_bounty = p.get('min_bounty', 0) or 0
+            max_bounty = p.get('max_bounty', 0) or 0
             programs.append({
-                'id': f"inti_{p.get('handle')}",
-                'name': p.get('name', 'Unknown'),
+                'id': f"inti_{handle}",
+                'name': p.get('name', handle),
                 'platform': 'Intigriti',
-                'url': f"https://app.intigriti.com/researcher/programs/{p.get('handle')}",
-                'bounty': p.get('maxBounty', {}).get('value', 0) > 0
+                'url': f"https://app.intigriti.com/researcher/programs/{company}/{handle}/detail",
+                'bounty': min_bounty > 0 or max_bounty > 0,
+                'date': p.get('last_updated', '-')[:10] if p.get('last_updated') else '-'
             })
     except Exception as e:
         print(f"Intigriti error: {e}")
@@ -107,29 +99,35 @@ def main():
 
     if first_run:
         known = {}
-        print("Pertama kali jalan - simpan semua program tanpa notifikasi...")
 
-    all_programs = []
-    all_programs.extend(check_hackerone())
-    all_programs.extend(check_bugcrowd())
-    all_programs.extend(check_intigriti())
+    h1 = check_hackerone()
+    bc = check_bugcrowd()
+    inti = check_intigriti()
+    all_programs = h1 + bc + inti
 
-    print(f"Total program ditemukan: {len(all_programs)}")
+    print(f"HackerOne: {len(h1)} | Bugcrowd: {len(bc)} | Intigriti: {len(inti)}")
 
     if first_run:
-        # Simpan semua tanpa kirim notifikasi
         for p in all_programs:
             known[p['id']] = {
                 'name': p['name'],
-                'found_at': datetime.now().isoformat()
+                'platform': p['platform'],
+                'url': p['url'],
+                'bounty': p['bounty'],
+                'date': p.get('date', '-')
             }
-        print(f"Disimpan {len(known)} program sebagai baseline. Notifikasi akan aktif mulai run berikutnya.")
+
         send_telegram(
             f"✅ <b>Bug Bounty Monitor Aktif!</b>\n\n"
-            f"📊 Baseline tersimpan: <b>{len(known)} program</b>\n"
-            f"🔔 Notifikasi akan masuk jika ada program <b>BARU</b>\n"
-            f"⏰ Cek setiap 30 menit otomatis"
+            f"📊 <b>Total Baseline:</b> {len(known)} program\n"
+            f"🔴 HackerOne: {len(h1)} program\n"
+            f"🟡 Bugcrowd: {len(bc)} program\n"
+            f"🔵 Intigriti: {len(inti)} program\n\n"
+            f"⏰ Cek otomatis setiap 30 menit\n"
+            f"🔔 Notifikasi masuk jika ada program BARU"
         )
+        print(f"Baseline tersimpan: {len(known)} program")
+
     else:
         new_programs = []
         for p in all_programs:
@@ -137,10 +135,14 @@ def main():
                 new_programs.append(p)
                 known[p['id']] = {
                     'name': p['name'],
-                    'found_at': datetime.now().isoformat()
+                    'platform': p['platform'],
+                    'url': p['url'],
+                    'bounty': p['bounty'],
+                    'date': p.get('date', '-')
                 }
 
         if new_programs:
+            print(f"Program baru ditemukan: {len(new_programs)}")
             for p in new_programs:
                 bounty_label = "💰 Ada Bounty" if p['bounty'] else "🎯 VDP (No Bounty)"
                 msg = (
@@ -148,11 +150,12 @@ def main():
                     f"🏢 <b>Nama:</b> {p['name']}\n"
                     f"📌 <b>Platform:</b> {p['platform']}\n"
                     f"{bounty_label}\n"
-                    f"🔗 <b>Link:</b> {p['url']}\n\n"
-                    f"⏰ {datetime.now().strftime('%d-%m-%Y %H:%M')} WIB"
+                    f"🔗 <b>Link:</b> {p['url']}\n"
+                    f"📅 <b>Tanggal:</b> {p.get('date', '-')}\n\n"
+                    f"⏰ Ditemukan: {datetime.now().strftime('%d-%m-%Y %H:%M')} WIB"
                 )
                 send_telegram(msg)
-                print(f"Notifikasi terkirim: {p['name']}")
+                print(f"Notif: {p['name']} ({p['platform']})")
         else:
             print(f"Tidak ada program baru. Total terpantau: {len(known)}")
 
