@@ -51,9 +51,6 @@ def fetch_json(url):
 
 # ──────────────────────────────────────────────
 # HackerOne
-# Data: handle, name, url, offers_bounties
-# Reward: tidak ada nominal di public data → tampilkan "Ada Bounty" atau "VDP"
-#         + max_severity dari scope sebagai indikator
 # ──────────────────────────────────────────────
 def check_hackerone():
     programs = []
@@ -64,11 +61,10 @@ def check_hackerone():
             if not handle:
                 continue
 
-            name         = p.get('name') or handle
-            url          = p.get('url') or f"https://hackerone.com/{handle}"
-            has_bounty   = bool(p.get('offers_bounties'))
+            name       = p.get('name') or handle
+            url        = p.get('url') or f"https://hackerone.com/{handle}"
+            has_bounty = bool(p.get('offers_bounties'))
 
-            # Cari max_severity tertinggi dari in_scope targets
             severity_map = {'critical': 4, 'high': 3, 'medium': 2, 'low': 1, None: 0}
             max_sev = None
             for t in p.get('targets', {}).get('in_scope', []):
@@ -88,7 +84,6 @@ def check_hackerone():
                 'url':      url,
                 'bounty':   has_bounty,
                 'reward':   reward,
-                'date':     '-',
             })
     except Exception as e:
         print(f"[H1 ERROR] {e}")
@@ -96,7 +91,6 @@ def check_hackerone():
 
 # ──────────────────────────────────────────────
 # Bugcrowd
-# Data: name, url (langsung ada), max_payout
 # ──────────────────────────────────────────────
 def check_bugcrowd():
     programs = []
@@ -104,19 +98,13 @@ def check_bugcrowd():
         data = fetch_json(f"{BASE_URL}/bugcrowd_data.json")
         for p in data:
             name = (p.get('name') or '').strip()
-            url  = (p.get('url') or '').strip()
+            url  = (p.get('url')  or '').strip()
             if not name or not url:
                 continue
 
             max_payout = p.get('max_payout') or 0
-
-            if max_payout > 0:
-                reward = f"💰 Up to ${max_payout:,}"
-            else:
-                reward = "🎯 VDP (No Bounty)"
-
-            # Buat ID dari URL karena tidak ada handle
-            slug = url.rstrip('/').split('/')[-1]
+            reward     = f"💰 Up to ${max_payout:,}" if max_payout > 0 else "🎯 VDP (No Bounty)"
+            slug       = url.rstrip('/').split('/')[-1]
 
             programs.append({
                 'id':       f"bc_{slug}",
@@ -125,7 +113,6 @@ def check_bugcrowd():
                 'url':      url,
                 'bounty':   max_payout > 0,
                 'reward':   reward,
-                'date':     '-',
             })
     except Exception as e:
         print(f"[BC ERROR] {e}")
@@ -133,7 +120,6 @@ def check_bugcrowd():
 
 # ──────────────────────────────────────────────
 # Intigriti
-# Data: name, url (langsung ada), min_bounty, max_bounty (dict)
 # ──────────────────────────────────────────────
 def check_intigriti():
     programs = []
@@ -143,15 +129,14 @@ def check_intigriti():
             handle = (p.get('handle') or '').strip()
             name   = (p.get('name')   or handle).strip()
             url    = (p.get('url')    or '').strip()
-
             if not handle or not url:
                 continue
 
-            min_b    = p.get('min_bounty') or {}
-            max_b    = p.get('max_bounty') or {}
-            min_val  = min_b.get('value', 0) if isinstance(min_b, dict) else 0
-            max_val  = max_b.get('value', 0) if isinstance(max_b, dict) else 0
-            currency = max_b.get('currency', 'EUR') if isinstance(max_b, dict) else 'EUR'
+            min_b      = p.get('min_bounty') or {}
+            max_b      = p.get('max_bounty') or {}
+            min_val    = min_b.get('value', 0) if isinstance(min_b, dict) else 0
+            max_val    = max_b.get('value', 0) if isinstance(max_b, dict) else 0
+            currency   = max_b.get('currency', 'EUR') if isinstance(max_b, dict) else 'EUR'
             has_bounty = max_val > 0 or min_val > 0
 
             if has_bounty:
@@ -171,27 +156,25 @@ def check_intigriti():
                 'url':      url,
                 'bounty':   has_bounty,
                 'reward':   reward,
-                'date':     '-',
             })
     except Exception as e:
         print(f"[INTI ERROR] {e}")
     return programs
 
 # ──────────────────────────────────────────────
-# Build Telegram message
+# Build Telegram message — SELALU ada link
 # ──────────────────────────────────────────────
 def build_message(p):
     icon = {'HackerOne': '🔴', 'Bugcrowd': '🟡', 'Intigriti': '🔵'}.get(p['platform'], '⚪')
-    url  = p['url']
     ts   = datetime.now().strftime('%d-%m-%Y %H:%M')
+    url  = p['url']
 
     return (
         f"🚨 <b>Program Bug Bounty Baru!</b>\n\n"
         f"🏢 <b>Nama     :</b> {p['name']}\n"
         f"{icon} <b>Platform :</b> {p['platform']}\n"
         f"💵 <b>Reward   :</b> {p['reward']}\n"
-        f"📅 <b>Tanggal  :</b> {p['date']}\n"
-        f"🔗 <b>Link     :</b> <a href=\"{url}\">{p['name']}</a>\n\n"
+        f"🔗 <b>Link     :</b> <a href=\"{url}\">{url}</a>\n\n"
         f"⏰ {ts} WIB"
     )
 
@@ -211,33 +194,11 @@ def main():
 
     print(f"HackerOne: {len(h1)} | Bugcrowd: {len(bc)} | Intigriti: {len(inti)}")
 
-    # Verifikasi sample output
-    if all_programs:
-        s = all_programs[0]
-        print(f"\nSample [{s['platform']}]")
-        print(f"  name  : {s['name']}")
-        print(f"  url   : {s['url']}")
-        print(f"  reward: {s['reward']}")
-        print(f"  date  : {s['date']}")
-
-        # Sample Bugcrowd
-        for x in bc[:1]:
-            print(f"\nSample [Bugcrowd]")
-            print(f"  name  : {x['name']}")
-            print(f"  url   : {x['url']}")
-            print(f"  reward: {x['reward']}")
-
-        # Sample Intigriti
-        for x in inti[:1]:
-            print(f"\nSample [Intigriti]")
-            print(f"  name  : {x['name']}")
-            print(f"  url   : {x['url']}")
-            print(f"  reward: {x['reward']}")
-
     if first_run:
         for p in all_programs:
-            known[p['id']] = {k: p[k] for k in ('name','platform','url','bounty','reward','date')}
+            known[p['id']] = {k: p[k] for k in ('name', 'platform', 'url', 'bounty', 'reward')}
 
+        # Notif baseline aktif
         send_telegram(
             f"✅ <b>Bug Bounty Monitor Aktif!</b>\n\n"
             f"📊 <b>Total Baseline:</b> {len(known)} program\n"
@@ -245,16 +206,22 @@ def main():
             f"🟡 Bugcrowd  : {len(bc)} program\n"
             f"🔵 Intigriti : {len(inti)} program\n\n"
             f"⏰ Cek otomatis setiap 30 menit\n"
-            f"🔔 Notif kalau ada program BARU"
+            f"🔔 Notif kalau ada program BARU (lengkap + link)"
         )
-        print(f"\nBaseline tersimpan: {len(known)} program")
+
+        # Kirim 3 sample program biar tau formatnya
+        print("\nKirim 3 sample preview...")
+        for p in all_programs[:3]:
+            send_telegram("📋 <b>[SAMPLE PREVIEW]</b>\n" + build_message(p))
+
+        print(f"Baseline tersimpan: {len(known)} program")
 
     else:
         new_programs = []
         for p in all_programs:
             if p['id'] not in known:
                 new_programs.append(p)
-                known[p['id']] = {k: p[k] for k in ('name','platform','url','bounty','reward','date')}
+                known[p['id']] = {k: p[k] for k in ('name', 'platform', 'url', 'bounty', 'reward')}
 
         if new_programs:
             print(f"\nProgram baru: {len(new_programs)}")
@@ -263,7 +230,7 @@ def main():
                 print(f"  → {p['name']} ({p['platform']}) | {p['reward']} | {p['url']}")
                 send_telegram(msg)
         else:
-            print(f"\nTidak ada program baru. Total: {len(known)}")
+            print(f"\nTidak ada program baru. Total tracked: {len(known)}")
 
     save_known(known)
 
