@@ -35,41 +35,4 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add known_programs.json
           git diff --staged --quiet || git commit -m "chore: update known programs [skip ci]"
-          git pushname: Bug Bounty Monitor
-
-on:
-  schedule:
-    - cron: '*/30 * * * *'   # Setiap 30 menit
-  workflow_dispatch:          # Bisa trigger manual
-
-jobs:
-  monitor:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write          # Butuh ini buat commit known_programs.json
-
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-
-      - name: Install dependencies
-        run: pip install requests
-
-      - name: Run monitor
-        env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python monitor.py
-
-      - name: Commit known_programs.json ke repo
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add known_programs.json
-          git diff --staged --quiet || git commit -m "chore: update known programs [skip ci]"
           git push
