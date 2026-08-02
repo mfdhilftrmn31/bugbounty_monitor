@@ -1,0 +1,3733 @@
+{
+  "h1_security": {
+    "name": "HackerOne",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/security",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 100% | Scopes: 25 | Managed"
+  },
+  "h1_23andme_bbp": {
+    "name": "23andMe Bug Bounty",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/23andme_bbp",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 100% | Scopes: 18 | Managed"
+  },
+  "h1_wolt": {
+    "name": "Wolt",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/wolt",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 100% | Scopes: 12 | Managed"
+  },
+  "h1_early_warning": {
+    "name": "Early Warning",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/early_warning",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 99% | Scopes: 9 | Managed"
+  },
+  "h1_sheer_bbp": {
+    "name": "Sheer",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/sheer_bbp",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 100% | Scopes: 2 | Managed"
+  },
+  "h1_wallet_on_telegram": {
+    "name": "Wallet on Telegram",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/wallet_on_telegram",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 99% | Scopes: 7 | Managed"
+  },
+  "h1_eero": {
+    "name": "eero",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/eero",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 100% | Scopes: 5 | Managed"
+  },
+  "h1_klarna": {
+    "name": "Klarna",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/klarna",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 99% | Scopes: 12 | Managed"
+  },
+  "h1_okg": {
+    "name": "OKG",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/okg",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 99% | Scopes: 9 | Managed"
+  },
+  "h1_pornbox": {
+    "name": "PornBox",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/pornbox",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 98% | Scopes: 4 | Managed"
+  },
+  "h1_flutteruki": {
+    "name": "Flutter UK&I",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/flutteruki",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 97% | Scopes: 43 | Managed"
+  },
+  "h1_hyatt": {
+    "name": "Hyatt Hotels",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/hyatt",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 98% | Scopes: 63 | Managed"
+  },
+  "h1_oppo_bbp": {
+    "name": "OPPO",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/oppo_bbp",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 97% | Scopes: 133 | Managed"
+  },
+  "h1_marriott": {
+    "name": "Marriott Bug Bounty Program",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/marriott",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 97% | Scopes: 78 | Managed"
+  },
+  "h1_playtika": {
+    "name": "Playtika",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/playtika",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 96% | Scopes: 65 | Managed"
+  },
+  "h1_audible": {
+    "name": "Audible",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/audible",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 99% | Scopes: 4 | Managed"
+  },
+  "h1_vimeo": {
+    "name": "Vimeo",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/vimeo",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 96% | Scopes: 36 | Managed"
+  },
+  "h1_goldmansachs": {
+    "name": "Goldman Sachs",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/goldmansachs",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 97% | Scopes: 46 | Managed"
+  },
+  "h1_greenhouse": {
+    "name": "Greenhouse.io",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/greenhouse",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 100% | Scopes: 12 | Managed"
+  },
+  "h1_inditex": {
+    "name": "Inditex",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/inditex",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 100% | Scopes: 4 | Managed"
+  },
+  "h1_twilio": {
+    "name": "Twilio",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/twilio",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 95% | Scopes: 24 | Managed"
+  },
+  "h1_amazonvrp": {
+    "name": "Amazon Vulnerability Research Program",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/amazonvrp",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 98% | Scopes: 100 | Managed"
+  },
+  "h1_netflix": {
+    "name": "Netflix",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/netflix",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 96% | Scopes: 30 | Managed"
+  },
+  "h1_ring": {
+    "name": "Ring",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/ring",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 98% | Scopes: 30 | Managed"
+  },
+  "h1_trip_com": {
+    "name": "Trip.com",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/trip_com",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 95% | Scopes: 17 | Managed"
+  },
+  "h1_coupang_tw": {
+    "name": "Coupang Taiwan",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/coupang_tw",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 96% | Scopes: 47 | Managed"
+  },
+  "h1_superbet": {
+    "name": "Superbet",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/superbet",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 95% | Scopes: 26 | Managed"
+  },
+  "h1_polygon-technology": {
+    "name": "Polygon Technology",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/polygon-technology",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 94% | Scopes: 8 | Managed"
+  },
+  "h1_anduril_industries": {
+    "name": "Anduril Industries",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/anduril_industries",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 96% | Scopes: 6 | Managed"
+  },
+  "h1_privy-bbp": {
+    "name": "Privy (Bounty)",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/privy-bbp",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 95% | Scopes: 12 | Managed"
+  },
+  "h1_gocardless_bbp": {
+    "name": "GoCardless Bug Bounty Program",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/gocardless_bbp",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 94% | Scopes: 17 | Managed"
+  },
+  "h1_3cx": {
+    "name": "3CX",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/3cx",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 92% | Scopes: 8 | Managed"
+  },
+  "h1_faraday_inc": {
+    "name": "Faraday, Inc.",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/faraday_inc",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 92% | Scopes: 9 | Managed"
+  },
+  "h1_unico_idtech": {
+    "name": "Unico IDtech",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/unico_idtech",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 94% | Scopes: 14 | Managed"
+  },
+  "h1_abercrombie_fitch_bbp": {
+    "name": "Abercrombie & Fitch Bug Bounty",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/abercrombie_fitch_bbp",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 92% | Scopes: 8 | Managed"
+  },
+  "h1_mercadolibre": {
+    "name": "MercadoLibre",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/mercadolibre",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 93% | Scopes: 73 | Managed"
+  },
+  "h1_kayak": {
+    "name": "KAYAK",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/kayak",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 93% | Scopes: 12 | Managed"
+  },
+  "h1_robinhood": {
+    "name": "Robinhood Markets Bounty",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/robinhood",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 91% | Scopes: 25 | Managed"
+  },
+  "h1_grab": {
+    "name": "Grab",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/grab",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 94% | Scopes: 31 | Managed"
+  },
+  "h1_temu": {
+    "name": "Temu",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/temu",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 92% | Scopes: 5 | Managed"
+  },
+  "h1_flipkart": {
+    "name": "Flipkart",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/flipkart",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 91% | Scopes: 10 | Managed"
+  },
+  "h1_agoda-public": {
+    "name": "Agoda Public",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/agoda-public",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 93% | Scopes: 1 | Managed"
+  },
+  "h1_tiktok": {
+    "name": "TikTok",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/tiktok",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 91% | Scopes: 35 | Managed"
+  },
+  "h1_xvideos": {
+    "name": "XVIDEOS",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/xvideos",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 92% | Scopes: 5 | Managed"
+  },
+  "h1_reddit": {
+    "name": "Reddit",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/reddit",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 92% | Scopes: 27 | Managed"
+  },
+  "h1_wellsfargo-bbp": {
+    "name": "Wells Fargo Bounty",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/wellsfargo-bbp",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 91% | Scopes: 14 | Managed"
+  },
+  "h1_databricks": {
+    "name": "Databricks",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/databricks",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 91% | Scopes: 5 | Managed"
+  },
+  "h1_lark_technologies": {
+    "name": "Lark Technologies",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/lark_technologies",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 91% | Scopes: 17 | Managed"
+  },
+  "h1_smtp2go": {
+    "name": "SMTP2GO BBP",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/smtp2go",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 94% | Scopes: 3 | Managed"
+  },
+  "h1_att": {
+    "name": "AT&T",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/att",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 94% | Scopes: 1 | Managed"
+  },
+  "h1_banco_plata": {
+    "name": "Banco Plata",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/banco_plata",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 98% | Scopes: 4 | Managed"
+  },
+  "h1_hilton": {
+    "name": "Hilton",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/hilton",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 87% | Scopes: 23 | Managed"
+  },
+  "h1_coinspot": {
+    "name": "CoinSpot",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/coinspot",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 88% | Scopes: 4 | Managed"
+  },
+  "h1_priceline": {
+    "name": "Priceline",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/priceline",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 88% | Scopes: 13 | Managed"
+  },
+  "h1_plaid": {
+    "name": "Plaid",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/plaid",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 90% | Scopes: 12 | Managed"
+  },
+  "h1_circle-bbp": {
+    "name": "Circle BBP",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/circle-bbp",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 94% | Scopes: 29 | Managed"
+  },
+  "h1_superhuman": {
+    "name": "Superhuman (formerly Grammarly)",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/superhuman",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 86% | Scopes: 28 | Managed"
+  },
+  "h1_nba-public": {
+    "name": "NBA Public Bug Bounty",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/nba-public",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 86% | Scopes: 390 | Managed"
+  },
+  "h1_stripe": {
+    "name": "Stripe",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/stripe",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 87% | Scopes: 52 | Managed"
+  },
+  "h1_doordash": {
+    "name": "DoorDash",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/doordash",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 87% | Scopes: 3 | Managed"
+  },
+  "h1_figma": {
+    "name": "Figma",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/figma",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 86% | Scopes: 8 | Managed"
+  },
+  "h1_neon_bbp": {
+    "name": "Neon",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/neon_bbp",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 88% | Scopes: 3 | Managed"
+  },
+  "h1_whatnot": {
+    "name": "Whatnot",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/whatnot",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 87% | Scopes: 7 | Managed"
+  },
+  "h1_clear": {
+    "name": "CLEAR",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/clear",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 88% | Scopes: 17 | Managed"
+  },
+  "h1_notion": {
+    "name": "Notion Labs, Inc.",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/notion",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 92% | Scopes: 12 | Managed"
+  },
+  "h1_vercel-open-source": {
+    "name": "Vercel Open Source",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/vercel-open-source",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 89% | Scopes: 17 | Managed"
+  },
+  "h1_bybit_fintech": {
+    "name": "Bybit Fintech Ltd",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/bybit_fintech",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 85% | Scopes: 9 | Managed"
+  },
+  "h1_wealthsimple": {
+    "name": "Wealthsimple",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/wealthsimple",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 83% | Scopes: 4 | Managed"
+  },
+  "h1_mozilla": {
+    "name": "Mozilla",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/mozilla",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 86% | Scopes: 24 | Managed"
+  },
+  "h1_verily_life_sciences": {
+    "name": "Verily Life Sciences",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/verily_life_sciences",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 85% | Scopes: 6 | Managed"
+  },
+  "h1_bookingcom": {
+    "name": "Booking.com",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/bookingcom",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 91% | Scopes: 49 | Managed"
+  },
+  "h1_uber": {
+    "name": "Uber",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/uber",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 83% | Scopes: 4 | Managed"
+  },
+  "h1_paypal": {
+    "name": "PayPal",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/paypal",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 92% | Scopes: 41 | Managed"
+  },
+  "h1_kong": {
+    "name": "Kong",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/kong",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 83% | Scopes: 14 | Managed"
+  },
+  "h1_wickr": {
+    "name": "Wickr",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/wickr",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 90% | Scopes: 13 | Managed"
+  },
+  "h1_varonis": {
+    "name": "Varonis",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/varonis",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 86% | Scopes: 6 | Managed"
+  },
+  "h1_compass-bbp": {
+    "name": "Compass",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/compass-bbp",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 83% | Scopes: 3 | Managed"
+  },
+  "h1_airtable": {
+    "name": "Airtable",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/airtable",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 82% | Scopes: 7 | Managed"
+  },
+  "h1_dynatrace": {
+    "name": "Dynatrace",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/dynatrace",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 83% | Scopes: 11 | Managed"
+  },
+  "h1_lightspark_bbp": {
+    "name": "Lightspark BBP",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/lightspark_bbp",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 90% | Scopes: 13 | Managed"
+  },
+  "h1_forescout_technologies": {
+    "name": "ForeScout Technologies",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/forescout_technologies",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 81% | Scopes: 63 | Managed"
+  },
+  "h1_boozt": {
+    "name": "Boozt Fashion AB",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/boozt",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 84% | Scopes: 7 | Managed"
+  },
+  "h1_playstation": {
+    "name": "PlayStation",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/playstation",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 81% | Scopes: 24 | Managed"
+  },
+  "h1_doppler": {
+    "name": "Doppler",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/doppler",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 82% | Scopes: 6 | Managed"
+  },
+  "h1_adobe": {
+    "name": "Adobe",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/adobe",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 86% | Scopes: 68 | Managed"
+  },
+  "h1_kiwicom": {
+    "name": "Kiwi.com",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/kiwicom",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 84% | Scopes: 19 | Managed"
+  },
+  "h1_toolsforhumanity": {
+    "name": "Tools for Humanity",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/toolsforhumanity",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 84% | Scopes: 22 | Managed"
+  },
+  "h1_bumble": {
+    "name": "Bumble",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/bumble",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 80% | Scopes: 50 | Managed"
+  },
+  "h1_sorare": {
+    "name": "Sorare",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/sorare",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 82% | Scopes: 3 | Managed"
+  },
+  "h1_epicgames": {
+    "name": "Epic Games",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/epicgames",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 80% | Scopes: 85 | Managed"
+  },
+  "h1_bcny": {
+    "name": "The Browser Company of NYC",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/bcny",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 82% | Scopes: 10 | Managed"
+  },
+  "h1_rei_bbp": {
+    "name": "REI BBP",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/rei_bbp",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 79% | Scopes: 6 | Managed"
+  },
+  "h1_arkose_labs": {
+    "name": "Arkose Labs",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/arkose_labs",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 78% | Scopes: 8 | Managed"
+  },
+  "h1_khealth": {
+    "name": "KHealth",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/khealth",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 78% | Scopes: 13 | Managed"
+  },
+  "h1_amazonvrp-devices": {
+    "name": "Amazon Vulnerability Research Program - Devices",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/amazonvrp-devices",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 80% | Scopes: 33 | Managed"
+  },
+  "h1_instacart": {
+    "name": "Instacart",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/instacart",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 81% | Scopes: 10 | Managed"
+  },
+  "h1_ui": {
+    "name": "Ubiquiti Inc.",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/ui",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 78% | Scopes: 50 | Managed"
+  },
+  "h1_magic-eden": {
+    "name": "Magic Eden",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/magic-eden",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 77% | Scopes: 2 | Managed"
+  },
+  "h1_pixiv": {
+    "name": "pixiv",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/pixiv",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 78% | Scopes: 18 | Managed"
+  },
+  "h1_modern_treasury": {
+    "name": "Modern Treasury",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/modern_treasury",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 81% | Scopes: 2 | Managed"
+  },
+  "h1_hubspot": {
+    "name": "HubSpot",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/hubspot",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 74% | Scopes: 15 | Managed"
+  },
+  "h1_gitlab": {
+    "name": "GitLab",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/gitlab",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 81% | Scopes: 19 | Managed"
+  },
+  "h1_coinbase": {
+    "name": "Coinbase",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/coinbase",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 82% | Scopes: 29 | Managed"
+  },
+  "h1_shein": {
+    "name": "SHEIN",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/shein",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 75% | Scopes: 7 | Managed"
+  },
+  "h1_flickr": {
+    "name": "Flickr",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/flickr",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 85% | Scopes: 5 | Managed"
+  },
+  "h1_starbucks": {
+    "name": "Starbucks",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/starbucks",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 76% | Scopes: 10 | Managed"
+  },
+  "h1_elastic": {
+    "name": "Elastic",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/elastic",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 81% | Scopes: 61 | Managed"
+  },
+  "h1_braze_inc": {
+    "name": "Braze, Inc.",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/braze_inc",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 98% | Scopes: 3 | Managed"
+  },
+  "h1_judgeme": {
+    "name": "Judge.me ",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/judgeme",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 74% | Scopes: 7 | Managed"
+  },
+  "h1_newegg": {
+    "name": "Newegg",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/newegg",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 72% | Scopes: 8 | Managed"
+  },
+  "h1_sidefx": {
+    "name": "SideFX",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/sidefx",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 73% | Scopes: 1 | Managed"
+  },
+  "h1_linkedin": {
+    "name": "LinkedIn",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/linkedin",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 72% | Scopes: 5 | Managed"
+  },
+  "h1_eufy_security": {
+    "name": "eufy Security",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/eufy_security",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 70% | Scopes: 16 | Managed"
+  },
+  "h1_cloudflare": {
+    "name": "Cloudflare Public Bug Bounty",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/cloudflare",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 77% | Scopes: 51 | Managed"
+  },
+  "h1_grindr": {
+    "name": "Grindr",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/grindr",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 72% | Scopes: 9 | Managed"
+  },
+  "h1_six-group": {
+    "name": "SIX Group",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/six-group",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 78% | Scopes: 59 | Managed"
+  },
+  "h1_affirm": {
+    "name": "Affirm",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/affirm",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 73% | Scopes: 3 | Managed"
+  },
+  "h1_expediagroup_bbp": {
+    "name": "Expedia Group Bug Bounty",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/expediagroup_bbp",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 70% | Scopes: 53 | Managed"
+  },
+  "h1_capital-one-bounty": {
+    "name": "Capital One Bug Bounty",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/capital-one-bounty",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 71% | Scopes: 10 | Managed"
+  },
+  "h1_pingidentity": {
+    "name": "Ping Identity",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/pingidentity",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 67% | Scopes: 10 | Managed"
+  },
+  "h1_udemy": {
+    "name": "Udemy",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/udemy",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 73% | Scopes: 2 | Managed"
+  },
+  "h1_frontegg": {
+    "name": "Frontegg",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/frontegg",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 70% | Scopes: 2 | Managed"
+  },
+  "h1_valve": {
+    "name": "Valve",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/valve",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 67% | Scopes: 21 | Managed"
+  },
+  "h1_x": {
+    "name": "X / xAI",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/x",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 67% | Scopes: 20 | Managed"
+  },
+  "h1_metamask": {
+    "name": "MetaMask",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/metamask",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 66% | Scopes: 15 | Managed"
+  },
+  "h1_payoneer": {
+    "name": "Payoneer",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/payoneer",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 68% | Scopes: 5 | Managed"
+  },
+  "h1_inspectorio": {
+    "name": "Inspectorio",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/inspectorio",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 73% | Scopes: 11 | Managed"
+  },
+  "h1_mongodb": {
+    "name": "MongoDB",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/mongodb",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 69% | Scopes: 26 | Managed"
+  },
+  "h1_netlify": {
+    "name": "Netlify",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/netlify",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 71% | Scopes: 14 | Managed"
+  },
+  "h1_fronthq": {
+    "name": "Front",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/fronthq",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 63% | Scopes: 6 | Managed"
+  },
+  "h1_chaturbate": {
+    "name": "Chaturbate",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/chaturbate",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 66% | Scopes: 9 | Managed"
+  },
+  "h1_malwarebytes": {
+    "name": "Malwarebytes",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/malwarebytes",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 70% | Scopes: 38 | Managed"
+  },
+  "h1_starbucks_china": {
+    "name": "Starbucks China",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/starbucks_china",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 65% | Scopes: 3 | Managed"
+  },
+  "h1_creditkarma": {
+    "name": "Credit Karma",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/creditkarma",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 59% | Scopes: 14 | Managed"
+  },
+  "h1_evernote": {
+    "name": "Evernote",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/evernote",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 57% | Scopes: 9 | Managed"
+  },
+  "h1_roblox": {
+    "name": "Roblox",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/roblox",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 85% | Scopes: 7 | Managed"
+  },
+  "h1_bykea": {
+    "name": "Bykea",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/bykea",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 100% | Scopes: 16"
+  },
+  "h1_fetlife": {
+    "name": "FetLife",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/fetlife",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 100% | Scopes: 3"
+  },
+  "h1_mergify": {
+    "name": "Mergify",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/mergify",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 100% | Scopes: 2"
+  },
+  "h1_deriv": {
+    "name": "Deriv.com",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/deriv",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 100% | Scopes: 18"
+  },
+  "h1_crowdstrike": {
+    "name": "Crowdstrike",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/crowdstrike",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 100% | Scopes: 22"
+  },
+  "h1_krisp": {
+    "name": "Krisp",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/krisp",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 100% | Scopes: 15"
+  },
+  "h1_8x8-bounty": {
+    "name": "8x8",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/8x8-bounty",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 100% | Scopes: 109"
+  },
+  "h1_koho": {
+    "name": "KOHO",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/koho",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 100% | Scopes: 11"
+  },
+  "h1_trendyol": {
+    "name": "Trendyol",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/trendyol",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 100% | Scopes: 11"
+  },
+  "h1_hostinger": {
+    "name": "hostinger ",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/hostinger",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 100% | Scopes: 11"
+  },
+  "h1_indrive": {
+    "name": "inDrive",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/indrive",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 100% | Scopes: 118"
+  },
+  "h1_crypto": {
+    "name": "Crypto.com",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/crypto",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 100% | Scopes: 25"
+  },
+  "h1_ripio": {
+    "name": "Ripio",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/ripio",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 99% | Scopes: 24"
+  },
+  "h1_eternal": {
+    "name": "Eternal",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/eternal",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 100% | Scopes: 34"
+  },
+  "h1_spotify": {
+    "name": "Spotify",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/spotify",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 58% | Scopes: 45 | Managed"
+  },
+  "h1_matomo": {
+    "name": "Matomo",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/matomo",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 99% | Scopes: 9"
+  },
+  "h1_slack": {
+    "name": "Slack",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/slack",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 99% | Scopes: 19"
+  },
+  "h1_portswigger": {
+    "name": "PortSwigger Web Security",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/portswigger",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 100% | Scopes: 11"
+  },
+  "h1_hypr-corp": {
+    "name": "HYPR",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/hypr-corp",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 100% | Scopes: 6"
+  },
+  "h1_1win_com": {
+    "name": "1win",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/1win_com",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 100% | Scopes: 6"
+  },
+  "h1_airbnb": {
+    "name": "Airbnb",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/airbnb",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 100% | Scopes: 27"
+  },
+  "h1_chia_network": {
+    "name": "Chia Network",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/chia_network",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 100% | Scopes: 9"
+  },
+  "h1_anthropic": {
+    "name": "Anthropic",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/anthropic",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 98% | Scopes: 14"
+  },
+  "h1_basecamp": {
+    "name": "Basecamp",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/basecamp",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 100% | Scopes: 16"
+  },
+  "h1_yuga_labs": {
+    "name": "Yuga Labs",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/yuga_labs",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 64% | Scopes: 6 | Managed"
+  },
+  "h1_semrush": {
+    "name": "Semrush",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/semrush",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 98% | Scopes: 13"
+  },
+  "h1_stripchat": {
+    "name": "Stripchat",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/stripchat",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 99% | Scopes: 2"
+  },
+  "h1_kubernetes": {
+    "name": "Kubernetes",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/kubernetes",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 60% | Scopes: 82 | Managed"
+  },
+  "h1_exness": {
+    "name": "EXNESS",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/exness",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 96% | Scopes: 14"
+  },
+  "h1_enjin": {
+    "name": "Enjin",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/enjin",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 95% | Scopes: 7"
+  },
+  "h1_fanduel": {
+    "name": "FanDuel",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/fanduel",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 98% | Scopes: 20"
+  },
+  "h1_snapchat": {
+    "name": "Snapchat",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/snapchat",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 95% | Scopes: 40"
+  },
+  "h1_moonpay": {
+    "name": "MoonPay ",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/moonpay",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 94% | Scopes: 18"
+  },
+  "h1_exodus": {
+    "name": "Exodus",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/exodus",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 92% | Scopes: 10"
+  },
+  "h1_ridewithvia": {
+    "name": "Via",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/ridewithvia",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 88% | Scopes: 13"
+  },
+  "h1_moneybird": {
+    "name": "Moneybird",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/moneybird",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 87% | Scopes: 4"
+  },
+  "h1_nintendo": {
+    "name": "Nintendo",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/nintendo",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 98% | Scopes: 7"
+  },
+  "h1_yelp": {
+    "name": "Yelp",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/yelp",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 87% | Scopes: 8"
+  },
+  "h1_urbancompany": {
+    "name": "Urban Company",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/urbancompany",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 95% | Scopes: 6"
+  },
+  "h1_1password": {
+    "name": "1Password - Enterprise Password Manager",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/1password",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 90% | Scopes: 4"
+  },
+  "h1_files": {
+    "name": "Files.com",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/files",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 82% | Scopes: 10"
+  },
+  "h1_meesho_bbp": {
+    "name": "Meesho",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/meesho_bbp",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 80% | Scopes: 12"
+  },
+  "h1_razorpay": {
+    "name": "Razorpay",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/razorpay",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 75% | Scopes: 6"
+  },
+  "h1_freshworks": {
+    "name": "Freshworks ",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/freshworks",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 71% | Scopes: 17"
+  },
+  "h1_remitly": {
+    "name": "Remitly",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/remitly",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 94% | Scopes: 72"
+  },
+  "h1_palantir_public": {
+    "name": "Palantir Public",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/palantir_public",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 64% | Scopes: 2"
+  },
+  "h1_logitech": {
+    "name": "Logitech",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/logitech",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 55% | Scopes: 86 | Managed"
+  },
+  "h1_floqast": {
+    "name": "FloQast",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/floqast",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 85% | Scopes: 4"
+  },
+  "h1_xiaomi": {
+    "name": "Xiaomi",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/xiaomi",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 56% | Scopes: 66"
+  },
+  "h1_automattic": {
+    "name": "Automattic",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/automattic",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 60% | Scopes: 31"
+  },
+  "h1_acronis": {
+    "name": "Acronis",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/acronis",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 62% | Scopes: 21"
+  },
+  "h1_dyson": {
+    "name": "Dyson",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/dyson",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 0% | Scopes: 66 | Managed"
+  },
+  "h1_github": {
+    "name": "GitHub",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/github",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 60% | Scopes: 27"
+  },
+  "h1_bumba_bbp": {
+    "name": "Bumba",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/bumba_bbp",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 97% | Scopes: 1 | Managed"
+  },
+  "h1_csg-public": {
+    "name": "Cloud Software Group",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/csg-public",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 50% | Scopes: 17"
+  },
+  "h1_quora": {
+    "name": "Quora",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/quora",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 60% | Scopes: 4"
+  },
+  "h1_zooplus": {
+    "name": "Zooplus",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/zooplus",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 95% | Scopes: 4 | Managed"
+  },
+  "h1_torproject": {
+    "name": "Tor",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/torproject",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 47% | Scopes: 2"
+  },
+  "h1_wisdomtree": {
+    "name": "WisdomTree, Inc.",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/wisdomtree",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 92% | Scopes: 6 | Managed"
+  },
+  "h1_deribit": {
+    "name": "Deribit",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/deribit",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 91% | Scopes: 8 | Managed"
+  },
+  "h1_truecaller": {
+    "name": "Truecaller ",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/truecaller",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 91% | Scopes: 9 | Managed"
+  },
+  "h1_tinder": {
+    "name": "Tinder",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/tinder",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 91% | Scopes: 8 | Managed"
+  },
+  "h1_shopify": {
+    "name": "Shopify",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/shopify",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 43% | Scopes: 21"
+  },
+  "h1_visa": {
+    "name": "Visa",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/visa",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 89% | Scopes: 150 | Managed"
+  },
+  "h1_syfe_bbp": {
+    "name": "Syfe",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/syfe_bbp",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 88% | Scopes: 9 | Managed"
+  },
+  "h1_starbucks_japan": {
+    "name": "Starbucks Japan",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/starbucks_japan",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 86% | Scopes: 7 | Managed"
+  },
+  "h1_blend-labs": {
+    "name": "Blend Labs",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/blend-labs",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 85% | Scopes: 1 | Managed"
+  },
+  "h1_whoop_bug_bounty": {
+    "name": "Whoop Bug Bounty",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/whoop_bug_bounty",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 83% | Scopes: 8 | Managed"
+  },
+  "h1_rockstargames": {
+    "name": "Rockstar Games",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/rockstargames",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 81% | Scopes: 9 | Managed"
+  },
+  "h1_redox_bbp": {
+    "name": "Redox",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/redox_bbp",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 78% | Scopes: 9 | Managed"
+  },
+  "h1_lyst": {
+    "name": "Lyst",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/lyst",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 77% | Scopes: 7 | Managed"
+  },
+  "h1_goodrx": {
+    "name": "GoodRx",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/goodrx",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 75% | Scopes: 3 | Managed"
+  },
+  "h1_discourse": {
+    "name": "Discourse",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/discourse",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 75% | Scopes: 2 | Managed"
+  },
+  "h1_wordpress": {
+    "name": "WordPress",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/wordpress",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 68% | Scopes: 21"
+  },
+  "h1_cs_money": {
+    "name": "CS Money",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/cs_money",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 21% | Scopes: 5"
+  },
+  "h1_insightly": {
+    "name": "Insightly",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/insightly",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 66% | Scopes: 9 | Managed"
+  },
+  "h1_alsco": {
+    "name": "ALSCO",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/alsco",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 100% | Scopes: 2"
+  },
+  "h1_s-pankki": {
+    "name": "S-Pankki",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/s-pankki",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 50% | Scopes: 8 | Managed"
+  },
+  "h1_ruby": {
+    "name": "Ruby",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/ruby",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 85% | Scopes: 1"
+  },
+  "h1_nodejs": {
+    "name": "Node.js",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/nodejs",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 82% | Scopes: 1"
+  },
+  "h1_tron_dao": {
+    "name": "TRON DAO",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/tron_dao",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 81% | Scopes: 1"
+  },
+  "h1_homebargains": {
+    "name": "Home Bargains",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/homebargains",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 76% | Scopes: 2"
+  },
+  "h1_netscaler_public_program": {
+    "name": "NetScaler Public Program",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/netscaler_public_program",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 60% | Scopes: 3"
+  },
+  "h1_chainlink": {
+    "name": "Chainlink",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/chainlink",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 21% | Scopes: 8"
+  },
+  "h1_yoti": {
+    "name": "Yoti",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/yoti",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 16% | Scopes: 9"
+  },
+  "h1_coinmate": {
+    "name": "CoinMate.io",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/coinmate",
+    "bounty": true,
+    "reward": "Severity: varies | Response: 87% | Scopes: 0"
+  },
+  "h1_django": {
+    "name": "Django",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/django",
+    "bounty": true,
+    "reward": "Severity: varies | Response: 93% | Scopes: 0"
+  },
+  "h1_phabricator": {
+    "name": "Phabricator",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/phabricator",
+    "bounty": true,
+    "reward": "Severity: varies | Response: 51% | Scopes: 0"
+  },
+  "bc_opensea": {
+    "name": "OpenSea Managed Bug Bounty Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/opensea",
+    "bounty": true,
+    "reward": "Up to $3,000,000 | Managed"
+  },
+  "bc_fireblocks-mbb-og2": {
+    "name": "Fireblocks MPC Managed Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/fireblocks-mbb-og2",
+    "bounty": true,
+    "reward": "Up to $150,000 | Managed"
+  },
+  "bc_t-mobile": {
+    "name": "T-Mobile",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/t-mobile",
+    "bounty": true,
+    "reward": "Up to $133,700 | Managed"
+  },
+  "bc_spacex": {
+    "name": "SpaceX/Starlink",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/spacex",
+    "bounty": true,
+    "reward": "Up to $100,000 | Managed"
+  },
+  "bc_tesla": {
+    "name": "Tesla",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/tesla",
+    "bounty": true,
+    "reward": "Up to $100,000 | Managed"
+  },
+  "bc_sophos": {
+    "name": "Sophos",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/sophos",
+    "bounty": true,
+    "reward": "Up to $80,000 | Managed"
+  },
+  "bc_okta": {
+    "name": "Okta",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/okta",
+    "bounty": true,
+    "reward": "Up to $75,000 | Managed"
+  },
+  "bc_auth0-okta": {
+    "name": "Auth0 by Okta",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/auth0-okta",
+    "bounty": true,
+    "reward": "Up to $50,000 | Managed"
+  },
+  "bc_axis-os-public": {
+    "name": "AXIS OS",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/axis-os-public",
+    "bounty": true,
+    "reward": "Up to $40,000 | Managed"
+  },
+  "bc_aiven-mbb-og": {
+    "name": "Aiven Managed Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/aiven-mbb-og",
+    "bounty": true,
+    "reward": "Up to $25,000 | Managed"
+  },
+  "bc_bullish-exchange": {
+    "name": "Bullish Exchange",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/bullish-exchange",
+    "bounty": true,
+    "reward": "Up to $25,000 | Managed"
+  },
+  "bc_hypixel-studios-mbb-og": {
+    "name": "Hypixel Studios Managed Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/hypixel-studios-mbb-og",
+    "bounty": true,
+    "reward": "Up to $25,000 | Managed"
+  },
+  "bc_kiteworks-public": {
+    "name": "Kiteworks",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/kiteworks-public",
+    "bounty": true,
+    "reward": "Up to $25,000 | Managed"
+  },
+  "bc_pinterest": {
+    "name": "Pinterest",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/pinterest",
+    "bounty": true,
+    "reward": "Up to $25,000 | Managed"
+  },
+  "bc_chime": {
+    "name": "Chime Managed Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/chime",
+    "bounty": true,
+    "reward": "Up to $20,000 | Managed"
+  },
+  "bc_fis": {
+    "name": "FIS",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/fis",
+    "bounty": true,
+    "reward": "Up to $20,000 | Managed"
+  },
+  "bc_sap-private-invite": {
+    "name": "SAP Invitational Bug Bounty Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/sap-private-invite",
+    "bounty": true,
+    "reward": "Up to $20,000 | Managed"
+  },
+  "bc_cashapp": {
+    "name": "Cash App",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/cashapp",
+    "bounty": true,
+    "reward": "Up to $18,000 | Managed"
+  },
+  "bc_square": {
+    "name": "Square",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/square",
+    "bounty": true,
+    "reward": "Up to $18,000 | Managed"
+  },
+  "bc_bitdefender": {
+    "name": "Bitdefender",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/bitdefender",
+    "bounty": true,
+    "reward": "Up to $15,000 | Managed"
+  },
+  "bc_bitpanda-og-bb": {
+    "name": "Bitpanda Ongoing Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/bitpanda-og-bb",
+    "bounty": true,
+    "reward": "Up to $15,000 | Managed"
+  },
+  "bc_canva": {
+    "name": "Canva",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/canva",
+    "bounty": true,
+    "reward": "Up to $15,000 | Managed"
+  },
+  "bc_etoro-mbb-og": {
+    "name": "eToro Managed Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/etoro-mbb-og",
+    "bounty": true,
+    "reward": "Up to $15,000 | Managed"
+  },
+  "bc_fivetran-mbb-og": {
+    "name": "Fivetran",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/fivetran-mbb-og",
+    "bounty": true,
+    "reward": "Up to $15,000 | Managed"
+  },
+  "bc_kucoin": {
+    "name": "KuCoin Managed Bug Bounty Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/kucoin",
+    "bounty": true,
+    "reward": "Up to $15,000 | Managed"
+  },
+  "bc_atlassian": {
+    "name": "Atlassian",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/atlassian",
+    "bounty": true,
+    "reward": "Up to $12,000 | Managed"
+  },
+  "bc_bullish": {
+    "name": "Bullish.com",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/bullish",
+    "bounty": true,
+    "reward": "Up to $12,000 | Managed"
+  },
+  "bc_fireblocks-mbb-og": {
+    "name": "Fireblocks Web Managed Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/fireblocks-mbb-og",
+    "bounty": true,
+    "reward": "Up to $12,000 | Managed"
+  },
+  "bc_legacy-blockchain-mbb-og": {
+    "name": "Electroneum Legacy Blockchain: EOL",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/legacy-blockchain-mbb-og",
+    "bounty": true,
+    "reward": "Up to $12,000 | Managed"
+  },
+  "bc_smartchain-mbb-og": {
+    "name": "Electroneum Smart Chain (ETN-SC) \u2014 EVM-Compatible Blockchain",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/smartchain-mbb-og",
+    "bounty": true,
+    "reward": "Up to $12,000 | Managed"
+  },
+  "bc_trello": {
+    "name": "Trello",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/trello",
+    "bounty": true,
+    "reward": "Up to $12,000 | Managed"
+  },
+  "bc_binance": {
+    "name": "Binance",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/binance",
+    "bounty": true,
+    "reward": "Up to $10,000 | Managed"
+  },
+  "bc_blockchain-dot-com": {
+    "name": "Blockchain.com Managed Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/blockchain-dot-com",
+    "bounty": true,
+    "reward": "Up to $10,000 | Managed"
+  },
+  "bc_bugcrowd": {
+    "name": "Bugcrowd",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/bugcrowd",
+    "bounty": true,
+    "reward": "Up to $10,000 | Managed"
+  },
+  "bc_cisconetworking": {
+    "name": "Cisco Networking",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/cisconetworking",
+    "bounty": true,
+    "reward": "Up to $10,000 | Managed"
+  },
+  "bc_etsy": {
+    "name": "Etsy",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/etsy",
+    "bounty": true,
+    "reward": "Up to $10,000 | Managed"
+  },
+  "bc_immutable": {
+    "name": "Immutable Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/immutable",
+    "bounty": true,
+    "reward": "Up to $10,000 | Managed"
+  },
+  "bc_indeed": {
+    "name": "Indeed",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/indeed",
+    "bounty": true,
+    "reward": "Up to $10,000 | Managed"
+  },
+  "bc_keepersecurity": {
+    "name": "Keeper Security Public Bounty Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/keepersecurity",
+    "bounty": true,
+    "reward": "Up to $10,000 | Managed"
+  },
+  "bc_seek": {
+    "name": "SEEK",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/seek",
+    "bounty": true,
+    "reward": "Up to $10,000 | Managed"
+  },
+  "bc_verisign": {
+    "name": "Verisign Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/verisign",
+    "bounty": true,
+    "reward": "Up to $10,000 | Managed"
+  },
+  "bc_orderlynetwork-mbb-og": {
+    "name": "Orderly Network: Bug Bounty Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/orderlynetwork-mbb-og",
+    "bounty": true,
+    "reward": "Up to $9,000 | Managed"
+  },
+  "bc_orderlynetwork-mbb-og2": {
+    "name": "Orderly Network Public Managed Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/orderlynetwork-mbb-og2",
+    "bounty": true,
+    "reward": "Up to $9,000 | Managed"
+  },
+  "bc_hotdoc": {
+    "name": "HotDoc",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/hotdoc",
+    "bounty": true,
+    "reward": "Up to $8,000 | Managed"
+  },
+  "bc_lululemon": {
+    "name": "lululemon",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/lululemon",
+    "bounty": true,
+    "reward": "Up to $8,000 | Managed"
+  },
+  "bc_skyscanner": {
+    "name": "Skyscanner",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/skyscanner",
+    "bounty": true,
+    "reward": "Up to $8,000 | Managed"
+  },
+  "bc_CCData-mbb-og": {
+    "name": "CoinDesk Data - Data API",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/CCData-mbb-og",
+    "bounty": true,
+    "reward": "Up to $7,500 | Managed"
+  },
+  "bc_bitso-mbb-og": {
+    "name": "Bitso Managed Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/bitso-mbb-og",
+    "bounty": true,
+    "reward": "Up to $7,500 | Managed"
+  },
+  "bc_coindesk-mbb-og": {
+    "name": "CoinDesk.com",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/coindesk-mbb-og",
+    "bounty": true,
+    "reward": "Up to $7,500 | Managed"
+  },
+  "bc_coindesk-mobile-mbb-og": {
+    "name": "CoinDesk Mobile",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/coindesk-mobile-mbb-og",
+    "bounty": true,
+    "reward": "Up to $7,500 | Managed"
+  },
+  "bc_consensus-mbb-og": {
+    "name": "Consensus by CoinDesk",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/consensus-mbb-og",
+    "bounty": true,
+    "reward": "Up to $7,500 | Managed"
+  },
+  "bc_latitude-financial-service-bugbounty": {
+    "name": "Latitude Financial Services Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/latitude-financial-service-bugbounty",
+    "bounty": true,
+    "reward": "Up to $7,500 | Managed"
+  },
+  "bc_launchdarkly-mbb-og": {
+    "name": "LaunchDarkly Managed Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/launchdarkly-mbb-og",
+    "bounty": true,
+    "reward": "Up to $7,500 | Managed"
+  },
+  "bc_lightspeed-hospitality": {
+    "name": "Lightspeed Hospitality",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/lightspeed-hospitality",
+    "bounty": true,
+    "reward": "Up to $7,500 | Managed"
+  },
+  "bc_lightspeed-retail": {
+    "name": "Lightspeed Retail",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/lightspeed-retail",
+    "bounty": true,
+    "reward": "Up to $7,500 | Managed"
+  },
+  "bc_linktree-mbb-og": {
+    "name": "Linktree",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/linktree-mbb-og",
+    "bounty": true,
+    "reward": "Up to $7,500 | Managed"
+  },
+  "bc_luno-og": {
+    "name": "Luno Bug Bounty Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/luno-og",
+    "bounty": true,
+    "reward": "Up to $7,500 | Managed"
+  },
+  "bc_mgmmacau-mbb-og": {
+    "name": "MGM China Holdings Limited Managed Bug Bounty Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/mgmmacau-mbb-og",
+    "bounty": true,
+    "reward": "Up to $7,500 | Managed"
+  },
+  "bc_monash-mbb": {
+    "name": "Monash University Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/monash-mbb",
+    "bounty": true,
+    "reward": "Up to $7,500 | Managed"
+  },
+  "bc_openai-safety": {
+    "name": "Safety Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/openai-safety",
+    "bounty": true,
+    "reward": "Up to $7,500 | Managed"
+  },
+  "bc_rapyd": {
+    "name": "Rapyd",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/rapyd",
+    "bounty": true,
+    "reward": "Up to $7,500 | Managed"
+  },
+  "bc_cms-bbpublic": {
+    "name": "Centers for Medicare & Medicaid Services - Public Bug Bounty Program 2026",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/cms-bbpublic",
+    "bounty": true,
+    "reward": "Up to $7,000 | Managed"
+  },
+  "bc_glassdoor-ogbb": {
+    "name": "Glassdoor Managed Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/glassdoor-ogbb",
+    "bounty": true,
+    "reward": "Up to $7,000 | Managed"
+  },
+  "bc_lime": {
+    "name": "Lime",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/lime",
+    "bounty": true,
+    "reward": "Up to $7,000 | Managed"
+  },
+  "bc_matlab-online": {
+    "name": "MATLAB Online - Ongoing Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/matlab-online",
+    "bounty": true,
+    "reward": "Up to $7,000 | Managed"
+  },
+  "bc_moovit-mbb-og": {
+    "name": "Moovit Managed Bug Bounty Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/moovit-mbb-og",
+    "bounty": true,
+    "reward": "Up to $7,000 | Managed"
+  },
+  "bc_asana": {
+    "name": "Asana",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/asana",
+    "bounty": true,
+    "reward": "Up to $6,500 | Managed"
+  },
+  "bc_backblaze": {
+    "name": "Backblaze",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/backblaze",
+    "bounty": true,
+    "reward": "Up to $6,500 | Managed"
+  },
+  "bc_bolt-og": {
+    "name": "Bolt Technology O\u00dc",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/bolt-og",
+    "bounty": true,
+    "reward": "Up to $6,500 | Managed"
+  },
+  "bc_entain-glf-mbb-og": {
+    "name": "Entain Game Logic Flaws Bug Bounty Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/entain-glf-mbb-og",
+    "bounty": true,
+    "reward": "Up to $6,500 | Managed"
+  },
+  "bc_onetrust": {
+    "name": "OneTrust",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/onetrust",
+    "bounty": true,
+    "reward": "Up to $6,500 | Managed"
+  },
+  "bc_openai": {
+    "name": "OpenAI",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/openai",
+    "bounty": true,
+    "reward": "Up to $6,500 | Managed"
+  },
+  "bc_flourish": {
+    "name": "Flourish",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/flourish",
+    "bounty": true,
+    "reward": "Up to $6,000 | Managed"
+  },
+  "bc_gearset-mbb": {
+    "name": "Gearset: Managed Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/gearset-mbb",
+    "bounty": true,
+    "reward": "Up to $6,000 | Managed"
+  },
+  "bc_intercom": {
+    "name": "Intercom",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/intercom",
+    "bounty": true,
+    "reward": "Up to $6,000 | Managed"
+  },
+  "bc_kaleido": {
+    "name": "Kaleido",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/kaleido",
+    "bounty": true,
+    "reward": "Up to $6,000 | Managed"
+  },
+  "bc_newrelic-mbb-og-public": {
+    "name": "New Relic Public Bug Bounty Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/newrelic-mbb-og-public",
+    "bounty": true,
+    "reward": "Up to $6,000 | Managed"
+  },
+  "bc_northwestern-mutual-mbb-og": {
+    "name": "Northwestern Mutual - Public Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/northwestern-mutual-mbb-og",
+    "bounty": true,
+    "reward": "Up to $6,000 | Managed"
+  },
+  "bc_octopus-deploy": {
+    "name": "Octopus Deploy",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/octopus-deploy",
+    "bounty": true,
+    "reward": "Up to $6,000 | Managed"
+  },
+  "bc_octopus-og": {
+    "name": "Octopus",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/octopus-og",
+    "bounty": true,
+    "reward": "Up to $6,000 | Managed"
+  },
+  "bc_pexels": {
+    "name": "Pexels",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/pexels",
+    "bounty": true,
+    "reward": "Up to $6,000 | Managed"
+  },
+  "bc_pixabay": {
+    "name": "Pixabay",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/pixabay",
+    "bounty": true,
+    "reward": "Up to $6,000 | Managed"
+  },
+  "bc_seek-com": {
+    "name": "Seek.com",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/seek-com",
+    "bounty": true,
+    "reward": "Up to $6,000 | Managed"
+  },
+  "bc_simplisafe": {
+    "name": "SimpliSafe Managed Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/simplisafe",
+    "bounty": true,
+    "reward": "Up to $6,000 | Managed"
+  },
+  "bc_usaa": {
+    "name": "USAA",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/usaa",
+    "bounty": true,
+    "reward": "Up to $6,000 | Managed"
+  },
+  "bc_comcast-mbb": {
+    "name": "Comcast Xfinity Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/comcast-mbb",
+    "bounty": true,
+    "reward": "Up to $5,500 | Managed"
+  },
+  "bc_xfinity-home": {
+    "name": "Xfinity Home & xFi",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/xfinity-home",
+    "bounty": true,
+    "reward": "Up to $5,500 | Managed"
+  },
+  "bc_afterpay": {
+    "name": "Afterpay Bug Bounty Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/afterpay",
+    "bounty": true,
+    "reward": "Up to $5,000 | Managed"
+  },
+  "bc_bitdefenderbox2": {
+    "name": "Bitdefender Box v2",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/bitdefenderbox2",
+    "bounty": true,
+    "reward": "Up to $5,000 | Managed"
+  },
+  "bc_blockopensource": {
+    "name": "Block Open Source",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/blockopensource",
+    "bounty": true,
+    "reward": "Up to $5,000 | Managed"
+  },
+  "bc_dell-product": {
+    "name": "Dell Technologies' Products Bug Bounty Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/dell-product",
+    "bounty": true,
+    "reward": "Up to $5,000 | Managed"
+  },
+  "bc_entain-public-mbb-og": {
+    "name": "Entain Public Managed Bug Bounty Engagement 2024",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/entain-public-mbb-og",
+    "bounty": true,
+    "reward": "Up to $5,000 | Managed"
+  },
+  "bc_glean-technologies-public": {
+    "name": "Glean Technologies Public Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/glean-technologies-public",
+    "bounty": true,
+    "reward": "Up to $5,000 | Managed"
+  },
+  "bc_hpe-networking-product-public": {
+    "name": "HPE Networking Product Public Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/hpe-networking-product-public",
+    "bounty": true,
+    "reward": "Up to $5,000 | Managed"
+  },
+  "bc_lastpass": {
+    "name": "LastPass",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/lastpass",
+    "bounty": true,
+    "reward": "Up to $5,000 | Managed"
+  },
+  "bc_mastercard": {
+    "name": "Mastercard Public Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/mastercard",
+    "bounty": true,
+    "reward": "Up to $5,000 | Managed"
+  },
+  "bc_moneytreekkog": {
+    "name": "Moneytree KK",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/moneytreekkog",
+    "bounty": true,
+    "reward": "Up to $5,000 | Managed"
+  },
+  "bc_motorolamobility-iot": {
+    "name": "Motorola Mobility Hardware Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/motorolamobility-iot",
+    "bounty": true,
+    "reward": "Up to $5,000 | Managed"
+  },
+  "bc_opera": {
+    "name": "Opera Public Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/opera",
+    "bounty": true,
+    "reward": "Up to $5,000 | Managed"
+  },
+  "bc_optus-mbb-og": {
+    "name": "Optus Managed Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/optus-mbb-og",
+    "bounty": true,
+    "reward": "Up to $5,000 | Managed"
+  },
+  "bc_plusgrade-mbb-public": {
+    "name": "Plusgrade Loyalty Public Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/plusgrade-mbb-public",
+    "bounty": true,
+    "reward": "Up to $5,000 | Managed"
+  },
+  "bc_recorded-future-mbb-og": {
+    "name": "Recorded Future Public Managed Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/recorded-future-mbb-og",
+    "bounty": true,
+    "reward": "Up to $5,000 | Managed"
+  },
+  "bc_thetradedesk-mbb": {
+    "name": "The Trade Desk",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/thetradedesk-mbb",
+    "bounty": true,
+    "reward": "Up to $5,000 | Managed"
+  },
+  "bc_tidal-bugbounty": {
+    "name": "TIDAL",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/tidal-bugbounty",
+    "bounty": true,
+    "reward": "Up to $5,000 | Managed"
+  },
+  "bc_tripadvisor-bb-og": {
+    "name": "Tripadvisor",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/tripadvisor-bb-og",
+    "bounty": true,
+    "reward": "Up to $5,000 | Managed"
+  },
+  "bc_twentyminuten": {
+    "name": "20 Minuten",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/twentyminuten",
+    "bounty": true,
+    "reward": "Up to $5,000 | Managed"
+  },
+  "bc_upwork": {
+    "name": "Upwork",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/upwork",
+    "bounty": true,
+    "reward": "Up to $5,000 | Managed"
+  },
+  "bc_arlo": {
+    "name": "Arlo Cash Rewards",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/arlo",
+    "bounty": true,
+    "reward": "Up to $4,500 | Managed"
+  },
+  "bc_bitgo-mbb-og-public": {
+    "name": "BitGo Managed Public Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/bitgo-mbb-og-public",
+    "bounty": true,
+    "reward": "Up to $4,500 | Managed"
+  },
+  "bc_bitgo-mobileapps-mbb-og": {
+    "name": "BitGo Mobile Apps Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/bitgo-mobileapps-mbb-og",
+    "bounty": true,
+    "reward": "Up to $4,500 | Managed"
+  },
+  "bc_chipotle-mbb-og": {
+    "name": "Chipotle Managed Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/chipotle-mbb-og",
+    "bounty": true,
+    "reward": "Up to $4,500 | Managed"
+  },
+  "bc_felix-health-mbb-og": {
+    "name": "Felix Health Managed Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/felix-health-mbb-og",
+    "bounty": true,
+    "reward": "Up to $4,500 | Managed"
+  },
+  "bc_financialforce": {
+    "name": "Certinia (formerly FinancialForce)",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/financialforce",
+    "bounty": true,
+    "reward": "Up to $4,500 | Managed"
+  },
+  "bc_irobot": {
+    "name": "iRobot",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/irobot",
+    "bounty": true,
+    "reward": "Up to $4,500 | Managed"
+  },
+  "bc_justeattakeaway": {
+    "name": "Just Eat Takeaway.com",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/justeattakeaway",
+    "bounty": true,
+    "reward": "Up to $4,500 | Managed"
+  },
+  "bc_kohls": {
+    "name": "Kohl's",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/kohls",
+    "bounty": true,
+    "reward": "Up to $4,500 | Managed"
+  },
+  "bc_myfitnesspal-mbb": {
+    "name": "MyFitnessPal Managed Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/myfitnesspal-mbb",
+    "bounty": true,
+    "reward": "Up to $4,500 | Managed"
+  },
+  "bc_navan": {
+    "name": "Navan",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/navan",
+    "bounty": true,
+    "reward": "Up to $4,500 | Managed"
+  },
+  "bc_pnimedia-bb": {
+    "name": "PNI Media - Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/pnimedia-bb",
+    "bounty": true,
+    "reward": "Up to $4,500 | Managed"
+  },
+  "bc_rea-mbb-og": {
+    "name": "REA Group | realestate.com.au, realcommercial.com.au, property.com.au",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/rea-mbb-og",
+    "bounty": true,
+    "reward": "Up to $4,500 | Managed"
+  },
+  "bc_skroutz": {
+    "name": "Skroutz Public Managed Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/skroutz",
+    "bounty": true,
+    "reward": "Up to $4,500 | Managed"
+  },
+  "bc_soteri": {
+    "name": "Soteri Marketplace Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/soteri",
+    "bounty": true,
+    "reward": "Up to $4,500 | Managed"
+  },
+  "bc_soundcloud": {
+    "name": "SoundCloud",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/soundcloud",
+    "bounty": true,
+    "reward": "Up to $4,500 | Managed"
+  },
+  "bc_tempusex-public-mbb-og": {
+    "name": "Infinite Athlete",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/tempusex-public-mbb-og",
+    "bounty": true,
+    "reward": "Up to $4,500 | Managed"
+  },
+  "bc_thousandeyes-og": {
+    "name": "Cisco ThousandEyes Vulnerability Hunting aka Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/thousandeyes-og",
+    "bounty": true,
+    "reward": "Up to $4,500 | Managed"
+  },
+  "bc_ultramobile-ecomm": {
+    "name": "Ultra Mobile Public ECOMM 2025 Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/ultramobile-ecomm",
+    "bounty": true,
+    "reward": "Up to $4,500 | Managed"
+  },
+  "bc_ultramobile-mobile-apps": {
+    "name": "Ultra Mobile Mobile Apps Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/ultramobile-mobile-apps",
+    "bounty": true,
+    "reward": "Up to $4,500 | Managed"
+  },
+  "bc_ultramobile-public": {
+    "name": "Ultra Mobile Public Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/ultramobile-public",
+    "bounty": true,
+    "reward": "Up to $4,500 | Managed"
+  },
+  "bc_viator": {
+    "name": "Viator",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/viator",
+    "bounty": true,
+    "reward": "Up to $4,500 | Managed"
+  },
+  "bc_volkswagen-vwfs-mbb-og": {
+    "name": "New Blue Website (NBW) - VWFS Bug Bounty Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/volkswagen-vwfs-mbb-og",
+    "bounty": true,
+    "reward": "Up to $4,500 | Managed"
+  },
+  "bc_eu-public-1": {
+    "name": "Demo-EU-admin-PublicMBB-1",
+    "platform": "Bugcrowd",
+    "url": "https://eu.bugcrowd.net/engagements/eu-public-1",
+    "bounty": true,
+    "reward": "Up to $4,500 | Managed"
+  },
+  "bc_aurory-mbb-og2": {
+    "name": "Aurory Managed Bug Bounty Engagement (Public)",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/aurory-mbb-og2",
+    "bounty": true,
+    "reward": "Up to $4,375 | Managed"
+  },
+  "bc_acorns": {
+    "name": "Acorns Grow, Inc.",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/acorns",
+    "bounty": true,
+    "reward": "Up to $4,000 | Managed"
+  },
+  "bc_atlassianapps": {
+    "name": "Atlassian-Built Apps",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/atlassianapps",
+    "bounty": true,
+    "reward": "Up to $4,000 | Managed"
+  },
+  "bc_blofin-crypto-mbb-og": {
+    "name": "Blofin Crypto Managed Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/blofin-crypto-mbb-og",
+    "bounty": true,
+    "reward": "Up to $4,000 | Managed"
+  },
+  "bc_carrefour": {
+    "name": "Majid Al Futtaim Retail",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/carrefour",
+    "bounty": true,
+    "reward": "Up to $4,000 | Managed"
+  },
+  "bc_cloudinary": {
+    "name": "Cloudinary",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/cloudinary",
+    "bounty": true,
+    "reward": "Up to $4,000 | Managed"
+  },
+  "bc_elementor": {
+    "name": "Elementor: Bug Bounty Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/elementor",
+    "bounty": true,
+    "reward": "Up to $4,000 | Managed"
+  },
+  "bc_nubank": {
+    "name": "Nubank Brasil Managed Bug Bounty Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/nubank",
+    "bounty": true,
+    "reward": "Up to $4,000 | Managed"
+  },
+  "bc_opsgenie": {
+    "name": "Opsgenie",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/opsgenie",
+    "bounty": true,
+    "reward": "Up to $4,000 | Managed"
+  },
+  "bc_personalcapital": {
+    "name": "Empower Personal Wealth",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/personalcapital",
+    "bounty": true,
+    "reward": "Up to $4,000 | Managed"
+  },
+  "bc_statuspage": {
+    "name": "Statuspage",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/statuspage",
+    "bounty": true,
+    "reward": "Up to $4,000 | Managed"
+  },
+  "bc_wise": {
+    "name": "Wise (ex-TransferWise)",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/wise",
+    "bounty": true,
+    "reward": "Up to $4,000 | Managed"
+  },
+  "bc_ifood-og": {
+    "name": "iFood: Bug Bounty Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/ifood-og",
+    "bounty": true,
+    "reward": "Up to $3,750 | Managed"
+  },
+  "bc_city-of-vienna-mbb-og": {
+    "name": "City of Vienna Managed Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/city-of-vienna-mbb-og",
+    "bounty": true,
+    "reward": "Up to $3,500 | Managed"
+  },
+  "bc_comcastvdp": {
+    "name": "Comcast Xfinity Vulnerability Disclosure Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/comcastvdp",
+    "bounty": true,
+    "reward": "Up to $3,500 | Managed"
+  },
+  "bc_klaviyo-og": {
+    "name": "Klaviyo Managed Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/klaviyo-og",
+    "bounty": true,
+    "reward": "Up to $3,500 | Managed"
+  },
+  "bc_lafourchette": {
+    "name": "TheFork - B2B - TFM3",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/lafourchette",
+    "bounty": true,
+    "reward": "Up to $3,500 | Managed"
+  },
+  "bc_maffashion": {
+    "name": "Majid Al Futtaim Lifestyle",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/maffashion",
+    "bounty": true,
+    "reward": "Up to $3,500 | Managed"
+  },
+  "bc_neohrms": {
+    "name": "NEOGOV Public Assets",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/neohrms",
+    "bounty": true,
+    "reward": "Up to $3,500 | Managed"
+  },
+  "bc_optimizely": {
+    "name": "Optimizely",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/optimizely",
+    "bounty": true,
+    "reward": "Up to $3,500 | Managed"
+  },
+  "bc_thefork-b2c-wng": {
+    "name": "TheFork - B2C - WNG",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/thefork-b2c-wng",
+    "bounty": true,
+    "reward": "Up to $3,500 | Managed"
+  },
+  "bc_thefork-mbb-og": {
+    "name": "TheFork Managed Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/thefork-mbb-og",
+    "bounty": true,
+    "reward": "Up to $3,500 | Managed"
+  },
+  "bc_tyler-tech-data-insights": {
+    "name": "Tyler Technologies Data & Insights \u2013 Tyler Data Platform, powered by Socrata",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/tyler-tech-data-insights",
+    "bounty": true,
+    "reward": "Up to $3,500 | Managed"
+  },
+  "bc_ultramobile-retailer-portal": {
+    "name": "Ultra Mobile Retailer Portal Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/ultramobile-retailer-portal",
+    "bounty": true,
+    "reward": "Up to $3,500 | Managed"
+  },
+  "bc_directly": {
+    "name": "Directly",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/directly",
+    "bounty": true,
+    "reward": "Up to $3,000 | Managed"
+  },
+  "bc_eazybi": {
+    "name": "eazyBI",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/eazybi",
+    "bounty": true,
+    "reward": "Up to $3,000 | Managed"
+  },
+  "bc_magiclabs-mbb-og": {
+    "name": "Magic Labs Managed Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/magiclabs-mbb-og",
+    "bounty": true,
+    "reward": "Up to $3,000 | Managed"
+  },
+  "bc_planethosterinc": {
+    "name": "PlanetHoster Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/planethosterinc",
+    "bounty": true,
+    "reward": "Up to $3,000 | Managed"
+  },
+  "bc_stiltsoft": {
+    "name": "Stiltsoft",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/stiltsoft",
+    "bounty": true,
+    "reward": "Up to $3,000 | Managed"
+  },
+  "bc_unity": {
+    "name": "Unity Technologies",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/unity",
+    "bounty": true,
+    "reward": "Up to $3,000 | Managed"
+  },
+  "bc_webdotcom": {
+    "name": "Web.com Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/webdotcom",
+    "bounty": true,
+    "reward": "Up to $3,000 | Managed"
+  },
+  "bc_ynab": {
+    "name": "YNAB",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/ynab",
+    "bounty": true,
+    "reward": "Up to $3,000 | Managed"
+  },
+  "bc_classdojo": {
+    "name": "ClassDojo",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/classdojo",
+    "bounty": true,
+    "reward": "Up to $2,500 | Managed"
+  },
+  "bc_clickhouse": {
+    "name": "ClickHouse",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/clickhouse",
+    "bounty": true,
+    "reward": "Up to $2,500 | Managed"
+  },
+  "bc_dell-com": {
+    "name": "Dell Technologies Application Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/dell-com",
+    "bounty": true,
+    "reward": "Up to $2,500 | Managed"
+  },
+  "bc_freedomofpress": {
+    "name": "SecureDrop",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/freedomofpress",
+    "bounty": true,
+    "reward": "Up to $2,500 | Managed"
+  },
+  "bc_hostgator-latam-bb": {
+    "name": "HostGator LATAM Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/hostgator-latam-bb",
+    "bounty": true,
+    "reward": "Up to $2,500 | Managed"
+  },
+  "bc_hutgroup-public": {
+    "name": "The Hut Group: Public Managed Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/hutgroup-public",
+    "bounty": true,
+    "reward": "Up to $2,500 | Managed"
+  },
+  "bc_imperva-mbb": {
+    "name": "Imperva - Thales Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/imperva-mbb",
+    "bounty": true,
+    "reward": "Up to $2,500 | Managed"
+  },
+  "bc_izymes": {
+    "name": "Izymes",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/izymes",
+    "bounty": true,
+    "reward": "Up to $2,500 | Managed"
+  },
+  "bc_jora": {
+    "name": "Jora",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/jora",
+    "bounty": true,
+    "reward": "Up to $2,500 | Managed"
+  },
+  "bc_majidalfuttaim-loyalty": {
+    "name": "Majid Al Futtaim Customer Solutions",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/majidalfuttaim-loyalty",
+    "bounty": true,
+    "reward": "Up to $2,500 | Managed"
+  },
+  "bc_mallofemirates": {
+    "name": "Majid Al Futtaim Properties",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/mallofemirates",
+    "bounty": true,
+    "reward": "Up to $2,500 | Managed"
+  },
+  "bc_originenergy-og1": {
+    "name": "Origin Energy",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/originenergy-og1",
+    "bounty": true,
+    "reward": "Up to $2,500 | Managed"
+  },
+  "bc_recroom-og": {
+    "name": "Rec Room Video Games",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/recroom-og",
+    "bounty": true,
+    "reward": "Up to $2,500 | Managed"
+  },
+  "bc_refined2": {
+    "name": "Refined",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/refined2",
+    "bounty": true,
+    "reward": "Up to $2,500 | Managed"
+  },
+  "bc_tamedia": {
+    "name": "Tamedia",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/tamedia",
+    "bounty": true,
+    "reward": "Up to $2,500 | Managed"
+  },
+  "bc_underarmour": {
+    "name": "Under Armour Product Security",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/underarmour",
+    "bounty": true,
+    "reward": "Up to $2,500 | Managed"
+  },
+  "bc_underarmour-corp": {
+    "name": "Under Armour Corporate",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/underarmour-corp",
+    "bounty": true,
+    "reward": "Up to $2,500 | Managed"
+  },
+  "bc_volkswagen-og": {
+    "name": "Volkswagen",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/volkswagen-og",
+    "bounty": true,
+    "reward": "Up to $2,500 | Managed"
+  },
+  "bc_vox": {
+    "name": "Majid Al Futtaim Entertainment",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/vox",
+    "bounty": true,
+    "reward": "Up to $2,500 | Managed"
+  },
+  "bc_cfr": {
+    "name": "Council on Foreign Relations",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/cfr",
+    "bounty": true,
+    "reward": "Up to $2,100 | Managed"
+  },
+  "bc_easyagile": {
+    "name": "Easy Agile",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/easyagile",
+    "bounty": true,
+    "reward": "Up to $2,000 | Managed"
+  },
+  "bc_internetbrands-public": {
+    "name": "Internet Brands Public",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/internetbrands-public",
+    "bounty": true,
+    "reward": "Up to $2,000 | Managed"
+  },
+  "bc_mattermost-mbb-public": {
+    "name": "Mattermost Public Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/mattermost-mbb-public",
+    "bounty": true,
+    "reward": "Up to $2,000 | Managed"
+  },
+  "bc_quizlet": {
+    "name": "Quizlet",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/quizlet",
+    "bounty": true,
+    "reward": "Up to $2,000 | Managed"
+  },
+  "bc_snapnames": {
+    "name": "SnapNames Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/snapnames",
+    "bounty": true,
+    "reward": "Up to $2,000 | Managed"
+  },
+  "bc_wyze": {
+    "name": "Wyze Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/wyze",
+    "bounty": true,
+    "reward": "Up to $2,000 | Managed"
+  },
+  "bc_zola-mbb-og": {
+    "name": "Zola Managed Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/zola-mbb-og",
+    "bounty": true,
+    "reward": "Up to $2,000 | Managed"
+  },
+  "bc_JaangaInc-mbb-market": {
+    "name": "Jaanga Marketplace Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/JaangaInc-mbb-market",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_agile-pulse": {
+    "name": "AgilePulse Marketplace Bug Bounty Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/agile-pulse",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_agilislt": {
+    "name": "Agilis LT Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/agilislt",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_appliger": {
+    "name": "AppLiger",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/appliger",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_appsvio": {
+    "name": "Appsvio Marketplace Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/appsvio",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_automationconsultants": {
+    "name": "AppFox",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/automationconsultants",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_balsamiq": {
+    "name": "Balsamiq for Atlassian Products",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/balsamiq",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_boja": {
+    "name": "BOJA Consulting Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/boja",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_brokenbuild": {
+    "name": "Broken Build Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/brokenbuild",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_celix-solutions-market": {
+    "name": "celix Solutions GmbH Marketplace Bug Bounty Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/celix-solutions-market",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_codeclou": {
+    "name": "codeclou GmbH",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/codeclou",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_codefortynine": {
+    "name": "codefortynine",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/codefortynine",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_colined": {
+    "name": "Colined",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/colined",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_craftcoders": {
+    "name": "Craft Coders Marketplace Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/craftcoders",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_devacrobats-market": {
+    "name": "DevAcrobats",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/devacrobats-market",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_deviniti": {
+    "name": "Deviniti",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/deviniti",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_dutch-beginners-market": {
+    "name": "Dutch Beginners ZZP Marketplace Managed Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/dutch-beginners-market",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_elements": {
+    "name": "Elements",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/elements",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_fiftyfivedegrees": {
+    "name": "55 Degrees",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/fiftyfivedegrees",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_gliffy": {
+    "name": "Gliffy",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/gliffy",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_inprowiser": {
+    "name": "Inprowiser Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/inprowiser",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_j-tricks": {
+    "name": "J-Tricks - Marketplace Bug Bounty Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/j-tricks",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_k15t": {
+    "name": "K15t",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/k15t",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_kantega": {
+    "name": "Kantega SSO",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/kantega",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_marvelutionbv": {
+    "name": "Marvelution",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/marvelutionbv",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_nemetschek": {
+    "name": "Nemetschek",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/nemetschek",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_nextupai": {
+    "name": "Nextup.ai",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/nextupai",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_opus-guard-market": {
+    "name": "Opus Guard Marketplace Managed Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/opus-guard-market",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_osl-mbb-og1": {
+    "name": "OSL Managed Public Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/osl-mbb-og1",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_plugin-people": {
+    "name": "The Plugin People",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/plugin-people",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_programmer-hat-market": {
+    "name": "Programmer Hat Marketplace Bug Bounty Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/programmer-hat-market",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_projectbalm": {
+    "name": "ProjectBalm",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/projectbalm",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_quirk-consulting": {
+    "name": "Quirk Consulting Marketplace Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/quirk-consulting",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_redmoon": {
+    "name": "Redmoon",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/redmoon",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_releasemanagement": {
+    "name": "Release Management (by Y2 ENGR)",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/releasemanagement",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_requirement-yogi": {
+    "name": "Requirement Yogi (Bug bounty)",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/requirement-yogi",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_rv-softwares": {
+    "name": "RV Softwares Marketplace Bug Bounty Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/rv-softwares",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_secureflag-mbb-market": {
+    "name": "SecureFlag Marketplace Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/secureflag-mbb-market",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_stagil": {
+    "name": "STAGIL Marketplace Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/stagil",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_we-weave": {
+    "name": "weweave UG Marketplace Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/we-weave",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_prosus-og": {
+    "name": "Prosus",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/prosus-og",
+    "bounty": true,
+    "reward": "Up to $1,250 | Managed"
+  },
+  "bc_epam-mbb-og": {
+    "name": "EPAM Systems Managed Bug Bounty Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/epam-mbb-og",
+    "bounty": true,
+    "reward": "Up to $1,000 | Managed"
+  },
+  "bc_ibotta": {
+    "name": "Ibotta",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/ibotta",
+    "bounty": true,
+    "reward": "Up to $1,000 | Managed"
+  },
+  "bc_quintoandar": {
+    "name": "QuintoAndar Managed Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/quintoandar",
+    "bounty": true,
+    "reward": "Up to $1,000 | Managed"
+  },
+  "bc_sky-plc-mbb-og": {
+    "name": "Sky UK/ROI Vulnerability Disclosure Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/sky-plc-mbb-og",
+    "bounty": true,
+    "reward": "Up to $1,000 | Managed"
+  },
+  "bc_sky-plc-mbb-og1": {
+    "name": "Sky Italy Vulnerability Disclosure Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/sky-plc-mbb-og1",
+    "bounty": true,
+    "reward": "Up to $1,000 | Managed"
+  },
+  "bc_sky-plc-mbb-og2": {
+    "name": "Sky DACH Vulnerability Disclosure Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/sky-plc-mbb-og2",
+    "bounty": true,
+    "reward": "Up to $1,000 | Managed"
+  },
+  "bc_trm-labs-public-mbb": {
+    "name": "TRM Labs Public Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/trm-labs-public-mbb",
+    "bounty": true,
+    "reward": "Up to $1,000 | Managed"
+  },
+  "bc_pantheon": {
+    "name": "Pantheon",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/pantheon",
+    "bounty": true,
+    "reward": "Up to $500 | Managed"
+  },
+  "inti_intel": {
+    "name": "Intel\u00ae",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/intel/intel/detail",
+    "bounty": true,
+    "reward": "250\u2013100,000 USD"
+  },
+  "inti_altera": {
+    "name": "Altera",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/altera/altera/detail",
+    "bounty": true,
+    "reward": "500\u201330,000 USD"
+  },
+  "inti_arm": {
+    "name": "Arm",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/arm/arm/detail",
+    "bounty": true,
+    "reward": "500\u201320,000 USD"
+  },
+  "inti_trustedfirmware": {
+    "name": "Trusted Firmware",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/arm/trustedfirmware/detail",
+    "bounty": true,
+    "reward": "1,000\u201320,000 USD"
+  },
+  "inti_bmwgroup-automotive": {
+    "name": "BMW Group Automotive",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/bmw/bmwgroup-automotive/detail",
+    "bounty": true,
+    "reward": "100\u201315,000 EUR"
+  },
+  "inti_capitalcom": {
+    "name": "Capital.com",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/capitalcom/capitalcom/detail",
+    "bounty": true,
+    "reward": "Up to 15,000 EUR"
+  },
+  "inti_privatebankdelen": {
+    "name": "Delen Private Bank",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/delenprivatebank/privatebankdelen/detail",
+    "bounty": true,
+    "reward": "100\u201315,000 EUR"
+  },
+  "inti_dropbox": {
+    "name": "Dropbox Bug Bounty",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/dropbox/dropbox/detail",
+    "bounty": true,
+    "reward": "100\u201315,000 USD"
+  },
+  "inti_nvidiapublicbugbounty": {
+    "name": "NVIDIA Public Bug Bounty",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/nvidia/nvidiapublicbugbounty/detail",
+    "bounty": true,
+    "reward": "150\u201315,000 USD"
+  },
+  "inti_yahoobugbounty": {
+    "name": "Yahoo Bug Bounty",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/yahoo/yahoobugbounty/detail",
+    "bounty": true,
+    "reward": "100\u201315,000 USD"
+  },
+  "inti_intigriti": {
+    "name": "intigriti",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/intigriti/intigriti/detail",
+    "bounty": true,
+    "reward": "Up to 13,337 EUR"
+  },
+  "inti_monzopublicbugbountyprogram": {
+    "name": "Monzo Public Bug Bounty Program",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/monzobank/monzopublicbugbountyprogram/detail",
+    "bounty": true,
+    "reward": "50\u201312,500 GBP"
+  },
+  "inti_digitalocean": {
+    "name": "DigitalOcean",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/digitalocean/digitalocean/detail",
+    "bounty": true,
+    "reward": "50\u201310,000 USD"
+  },
+  "inti_iciparisxl": {
+    "name": "ICI PARIS XL",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/aswatson/iciparisxl/detail",
+    "bounty": true,
+    "reward": "10\u20138,500 USD"
+  },
+  "inti_kruidvat": {
+    "name": "Kruidvat",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/aswatson/kruidvat/detail",
+    "bounty": true,
+    "reward": "10\u20138,500 USD"
+  },
+  "inti_marionnaud": {
+    "name": "Marionnaud",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/aswatson/marionnaud/detail",
+    "bounty": true,
+    "reward": "10\u20138,500 USD"
+  },
+  "inti_superdrug": {
+    "name": "Superdrug",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/aswatson/superdrug/detail",
+    "bounty": true,
+    "reward": "10\u20138,500 USD"
+  },
+  "inti_theperfumeshop": {
+    "name": "The Perfume Shop",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/aswatson/theperfumeshop/detail",
+    "bounty": true,
+    "reward": "10\u20138,500 USD"
+  },
+  "inti_watsons": {
+    "name": "Watsons",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/aswatson/watsons/detail",
+    "bounty": true,
+    "reward": "10\u20138,500 USD"
+  },
+  "inti_visma": {
+    "name": "Visma",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/visma/visma/detail",
+    "bounty": true,
+    "reward": "100\u20137,500 EUR"
+  },
+  "inti_sbbglobal": {
+    "name": "SBB - Swiss Federal Railways",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/sbb/sbbglobal/detail",
+    "bounty": true,
+    "reward": "25\u20136,666 EUR"
+  },
+  "inti_torfs": {
+    "name": "Torfs",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/torfs/torfs/detail",
+    "bounty": true,
+    "reward": "25\u20136,500 EUR"
+  },
+  "inti_bmwgroup": {
+    "name": "BMW Group",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/bmw/bmwgroup/detail",
+    "bounty": true,
+    "reward": "150\u20136,000 EUR"
+  },
+  "inti_simscale": {
+    "name": "SimScale",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/simscale/simscale/detail",
+    "bounty": true,
+    "reward": "250\u20136,000 EUR"
+  },
+  "inti_upholdcom": {
+    "name": "Uphold",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/Uphold/upholdcom/detail",
+    "bounty": true,
+    "reward": "Up to 6,000 EUR"
+  },
+  "inti_excoscalebugbounty": {
+    "name": "Exoscale Bug Bounty",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/exoscale/excoscalebugbounty/detail",
+    "bounty": true,
+    "reward": "50\u20135,000 EUR"
+  },
+  "inti_mobilevikings": {
+    "name": "Mobile Vikings",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/mv/mobilevikings/detail",
+    "bounty": true,
+    "reward": "Up to 5,000 EUR"
+  },
+  "inti_personio": {
+    "name": "Personio",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/personio/personio/detail",
+    "bounty": true,
+    "reward": "50\u20135,000 EUR"
+  },
+  "inti_rivianbugbounty": {
+    "name": "Rivian Bug Bounty",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/rivian/rivianbugbounty/detail",
+    "bounty": true,
+    "reward": "100\u20135,000 USD"
+  },
+  "inti_skodaautoprivatebugbountyprogram": {
+    "name": "Skoda Auto Bug Bounty Program",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/skodaauto/skodaautoprivatebugbountyprogram/detail",
+    "bounty": true,
+    "reward": "200\u20135,000 EUR"
+  },
+  "inti_uzleuven": {
+    "name": "UZ Leuven",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail",
+    "bounty": true,
+    "reward": "50\u20135,000 EUR"
+  },
+  "inti_arkanenetwork": {
+    "name": "Venly",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/arkane/arkanenetwork/detail",
+    "bounty": true,
+    "reward": "50\u20135,000 EUR"
+  },
+  "inti_nexo": {
+    "name": "Nexo",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/nexo/nexo/detail",
+    "bounty": true,
+    "reward": "125\u20134,800 USD"
+  },
+  "inti_innogames": {
+    "name": "InnoGames",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/innogames/innogames/detail",
+    "bounty": true,
+    "reward": "50\u20134,500 EUR"
+  },
+  "inti_portofantwerp": {
+    "name": "Port of Antwerp-Bruges",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/portofantwerp/portofantwerp/detail",
+    "bounty": true,
+    "reward": "50\u20134,500 EUR"
+  },
+  "inti_ninjakiwigames": {
+    "name": "Ninja Kiwi Games Bug Bounty program",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/ninjakiwigames/ninjakiwigames/detail",
+    "bounty": true,
+    "reward": "75\u20134,125 EUR"
+  },
+  "inti_allegrobugbounty": {
+    "name": "Allegro",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/allegro/allegrobugbounty/detail",
+    "bounty": true,
+    "reward": "100\u20134,000 EUR"
+  },
+  "inti_cloudways": {
+    "name": "Cloudways by DigitalOcean",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/digitalocean/cloudways/detail",
+    "bounty": true,
+    "reward": "50\u20134,000 USD"
+  },
+  "inti_cmcom": {
+    "name": "CM.com",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/cmcom/cmcom/detail",
+    "bounty": true,
+    "reward": "25\u20133,500 EUR"
+  },
+  "inti_fing": {
+    "name": "Fing Bug Bounty Program",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/lansweeper/fing/detail",
+    "bounty": true,
+    "reward": "50\u20133,500 EUR"
+  },
+  "inti_voiscooters": {
+    "name": "Voi Scooters",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/voi/voiscooters/detail",
+    "bounty": true,
+    "reward": "Up to 3,500 EUR"
+  },
+  "inti_aikido": {
+    "name": "Aikido Security: Bug Bounty Program",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/aikido/aikido/detail",
+    "bounty": true,
+    "reward": "50\u20132,500 EUR"
+  },
+  "inti_nmt": {
+    "name": "Axel Springer National Media & Tech",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/axelspringerse/nmt/detail",
+    "bounty": true,
+    "reward": "15\u20132,500 EUR"
+  },
+  "inti_nexuzhealth": {
+    "name": "Nexuzhealth",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/nexuzhealth/nexuzhealth/detail",
+    "bounty": true,
+    "reward": "50\u20132,500 EUR"
+  },
+  "inti_tomorrowland": {
+    "name": "Tomorrowland",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/tomorrowland/tomorrowland/detail",
+    "bounty": true,
+    "reward": "Up to 2,500 EUR"
+  },
+  "inti_wpenginebugbounty": {
+    "name": "WP Engine Bug Bounty",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
+    "bounty": true,
+    "reward": "Up to 2,500 EUR"
+  },
+  "inti_algemeendagblad": {
+    "name": "Algemeen Dagblad",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/dpgm/algemeendagblad/detail",
+    "bounty": true,
+    "reward": "25\u20132,200 EUR"
+  },
+  "inti_demorgen": {
+    "name": "De Morgen",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/dpgm/demorgen/detail",
+    "bounty": true,
+    "reward": "25\u20132,200 EUR"
+  },
+  "inti_devolkskrant": {
+    "name": "De Volkskrant",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/dpgm/devolkskrant/detail",
+    "bounty": true,
+    "reward": "25\u20132,200 EUR"
+  },
+  "inti_hetlaatstenieuws": {
+    "name": "Het Laatste Nieuws",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/dpgm/hetlaatstenieuws/detail",
+    "bounty": true,
+    "reward": "25\u20132,200 EUR"
+  },
+  "inti_hetparool": {
+    "name": "Het Parool",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/dpgm/hetparool/detail",
+    "bounty": true,
+    "reward": "25\u20132,200 EUR"
+  },
+  "inti_humo": {
+    "name": "Humo",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/dpgm/humo/detail",
+    "bounty": true,
+    "reward": "25\u20132,200 EUR"
+  },
+  "inti_libelle": {
+    "name": "Libelle",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/dpgm/libelle/detail",
+    "bounty": true,
+    "reward": "25\u20132,200 EUR"
+  },
+  "inti_trouw": {
+    "name": "Trouw",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/dpgm/trouw/detail",
+    "bounty": true,
+    "reward": "25\u20132,200 EUR"
+  },
+  "inti_tweakers": {
+    "name": "Tweakers",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/dpgm/tweakers/detail",
+    "bounty": true,
+    "reward": "50\u20132,200 EUR"
+  },
+  "inti_vtmgo": {
+    "name": "VTM GO",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/dpgm/vtmgo/detail",
+    "bounty": true,
+    "reward": "25\u20132,200 EUR"
+  },
+  "inti_heretechnologies": {
+    "name": "Here Technologies",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/heretechnologies/heretechnologies/detail",
+    "bounty": true,
+    "reward": "Up to 2,000 EUR"
+  },
+  "inti_huisvesting": {
+    "name": "Housing Application (huisvestingsapp) Bug Bounty Program",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/kuleuven/huisvesting/detail",
+    "bounty": true,
+    "reward": "Up to 2,000 EUR"
+  },
+  "inti_lansweeper1": {
+    "name": "Lansweeper Bug Bounty Program",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/lansweeper/lansweeper1/detail",
+    "bounty": true,
+    "reward": "50\u20132,000 EUR"
+  },
+  "inti_onlineinschrijvingenbetalingstoepassing": {
+    "name": "Online enrollment for students Bug Bounty Program",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/kuleuven/onlineinschrijvingenbetalingstoepassing/detail",
+    "bounty": true,
+    "reward": "Up to 2,000 EUR"
+  },
+  "inti_postibugbounty": {
+    "name": "Posti Bug Bounty",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/posti/postibugbounty/detail",
+    "bounty": true,
+    "reward": "100\u20132,000 EUR"
+  },
+  "inti_ripencc": {
+    "name": "RIPE NCC",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/ripencc/ripencc/detail",
+    "bounty": true,
+    "reward": "Up to 2,000 EUR"
+  },
+  "inti_vrtnv": {
+    "name": "VRT",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/vrtnv/vrtnv/detail",
+    "bounty": true,
+    "reward": "100\u20132,000 EUR"
+  },
+  "inti_ehealthhub&meta-hubvznkul": {
+    "name": "eHealth Hub VZN KUL",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/uz%20leuven/ehealthhub%26meta-hubvznkul/detail",
+    "bounty": true,
+    "reward": "Up to 2,000 EUR"
+  },
+  "inti_dstnybugbounty": {
+    "name": "Dstny",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/dstny/dstnybugbounty/detail",
+    "bounty": true,
+    "reward": "Up to 1,697 EUR"
+  },
+  "inti_dummy": {
+    "name": "Bpost",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/bpost/dummy/detail",
+    "bounty": true,
+    "reward": "Up to 1,500 EUR"
+  },
+  "inti_eurid": {
+    "name": "EURid",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/eurid/eurid/detail",
+    "bounty": true,
+    "reward": "50\u20131,500 EUR"
+  },
+  "inti_nexuzhealthwebpacs": {
+    "name": "Nexuzhealth Web PACS",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/uz%20leuven/nexuzhealthwebpacs/detail",
+    "bounty": true,
+    "reward": "Up to 1,000 EUR"
+  },
+  "inti_socialdeal": {
+    "name": "Social Deal",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/socialdeal/socialdeal/detail",
+    "bounty": true,
+    "reward": "25\u2013750 EUR"
+  },
+  "inti_dpgmedia": {
+    "name": "DPG Media",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/dpgm/dpgmedia/detail",
+    "bounty": true,
+    "reward": "25\u2013500 EUR"
+  }
+}
