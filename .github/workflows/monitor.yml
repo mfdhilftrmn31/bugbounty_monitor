@@ -1,0 +1,43 @@
+name: Bug Bounty Monitor
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # Jalan tiap 30 menit
+  workflow_dispatch:  # Bisa dijalankan manual juga
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Restore known programs cache
+        uses: actions/cache@v4
+        with:
+          path: known_programs.json
+          key: known-programs-${{ hashFiles('known_programs.json') }}
+          restore-keys: |
+            known-programs-
+
+      - name: Run monitor
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python monitor.py
+
+      - name: Save known programs
+        uses: actions/cache/save@v4
+        if: always()
+        with:
+          path: known_programs.json
+          key: known-programs-${{ github.run_id }}
