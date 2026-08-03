@@ -3743,5 +3743,19 @@
     "url": "https://www.intigriti.com/programs/waterlink/water-link/detail",
     "bounty": true,
     "reward": "50\u20135,000 EUR"
+  },
+  "h1_brave": {
+    "name": "Brave Software",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/brave",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 100% | Scopes: 5"
+  },
+  "inti_website": {
+    "name": "Kinepolis Group",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/kinepolis/website/detail",
+    "bounty": true,
+    "reward": "Up to 5,000 EUR"
   }
 }
