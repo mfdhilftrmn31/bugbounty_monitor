@@ -3729,5 +3729,12 @@
     "url": "https://www.intigriti.com/programs/dpgm/dpgmedia/detail",
     "bounty": true,
     "reward": "25\u2013500 EUR"
+  },
+  "inti_pdqcomprivate": {
+    "name": "PDQ bug bounty program",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
+    "bounty": true,
+    "reward": "50\u20133,500 EUR"
   }
 }
