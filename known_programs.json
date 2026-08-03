@@ -3736,5 +3736,12 @@
     "url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
     "bounty": true,
     "reward": "50\u20133,500 EUR"
+  },
+  "inti_water-link": {
+    "name": "Water-Link",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/waterlink/water-link/detail",
+    "bounty": true,
+    "reward": "50\u20135,000 EUR"
   }
 }
