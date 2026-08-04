@@ -3764,5 +3764,12 @@
     "url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
     "bounty": true,
     "reward": "25\u20131,500 EUR"
+  },
+  "h1_box_private": {
+    "name": "Box BB",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/box_private",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 65% | Scopes: 13 | Managed"
   }
 }
