@@ -3757,5 +3757,12 @@
     "url": "https://www.intigriti.com/programs/kinepolis/website/detail",
     "bounty": true,
     "reward": "Up to 5,000 EUR"
+  },
+  "inti_datacamp": {
+    "name": "DataCamp",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
+    "bounty": true,
+    "reward": "25\u20131,500 EUR"
   }
 }
