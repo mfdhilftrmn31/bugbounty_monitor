@@ -3771,5 +3771,12 @@
     "url": "https://hackerone.com/box_private",
     "bounty": true,
     "reward": "Severity: critical | Response: 65% | Scopes: 13 | Managed"
+  },
+  "inti_soundtrackyourbrand": {
+    "name": "Soundtrack Technologies",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/syb/soundtrackyourbrand/detail",
+    "bounty": true,
+    "reward": "50\u20133,500 EUR"
   }
 }
