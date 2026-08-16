@@ -3785,5 +3785,82 @@
     "url": "https://www.intigriti.com/programs/sqills/sqillscorporatewebsite/detail",
     "bounty": true,
     "reward": "Up to 2,500 EUR"
+  },
+  "h1_vodafone_oman": {
+    "name": "Vodafone Oman",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/vodafone_oman",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 97% | Scopes: 7"
+  },
+  "bc_zendesk": {
+    "name": "Zendesk Managed Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/zendesk",
+    "bounty": true,
+    "reward": "Up to $50,000 | Managed"
+  },
+  "bc_aelbox": {
+    "name": "Aelbox Marketplace Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/aelbox",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_magic-apps": {
+    "name": "Magic Apps Marketplace Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/magic-apps",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_marketplaceexpert": {
+    "name": "Marketplace Expert SL",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/marketplaceexpert",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_mobilitystream": {
+    "name": "MobilityStream Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/mobilitystream",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_onward-software-solutions-inc": {
+    "name": "Onward Software Solutions Inc. - Marketplace Bug Bounty Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/onward-software-solutions-inc",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_saasjet": {
+    "name": "SaaSJet",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/saasjet",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_soldevelo": {
+    "name": "SolDevelo",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/soldevelo",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_stonikbyte": {
+    "name": "StonikByte",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/stonikbyte",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_sykora-it-market": {
+    "name": "Sykora IT Marketplace Managed Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/sykora-it-market",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
   }
 }
