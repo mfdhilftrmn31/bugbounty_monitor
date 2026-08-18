@@ -3862,5 +3862,12 @@
     "url": "https://bugcrowd.com/engagements/sykora-it-market",
     "bounty": true,
     "reward": "Up to $1,500 | Managed"
+  },
+  "inti_intergamma": {
+    "name": "Intergamma",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/intergamma/intergamma/detail",
+    "bounty": true,
+    "reward": "50\u20135,500 EUR"
   }
 }
