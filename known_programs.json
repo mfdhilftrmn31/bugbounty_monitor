@@ -3869,5 +3869,12 @@
     "url": "https://www.intigriti.com/programs/intergamma/intergamma/detail",
     "bounty": true,
     "reward": "50\u20135,500 EUR"
+  },
+  "h1_vercel_sandbox": {
+    "name": "Vercel Sandbox",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/vercel_sandbox",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 0% | Scopes: 1"
   }
 }
