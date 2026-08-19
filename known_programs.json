@@ -3883,5 +3883,12 @@
     "url": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
     "bounty": true,
     "reward": "75\u20136,000 EUR"
+  },
+  "h1_nextcloud": {
+    "name": "Nextcloud",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/nextcloud",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 100% | Scopes: 94"
   }
 }
