@@ -3890,5 +3890,19 @@
     "url": "https://hackerone.com/nextcloud",
     "bounty": true,
     "reward": "Severity: critical | Response: 100% | Scopes: 94"
+  },
+  "bc_litew8": {
+    "name": "Litew8 GmbH - Marketplace Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/litew8",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_raleyapps": {
+    "name": "Raley Apps",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/raleyapps",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
   }
 }
