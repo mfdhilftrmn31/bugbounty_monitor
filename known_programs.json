@@ -3876,5 +3876,12 @@
     "url": "https://hackerone.com/vercel_sandbox",
     "bounty": true,
     "reward": "Severity: critical | Response: 0% | Scopes: 1"
+  },
+  "inti_truelayer": {
+    "name": "TrueLayer",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
+    "bounty": true,
+    "reward": "75\u20136,000 EUR"
   }
 }
