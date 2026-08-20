@@ -3904,5 +3904,61 @@
     "url": "https://bugcrowd.com/engagements/raleyapps",
     "bounty": true,
     "reward": "Up to $1,500 | Managed"
+  },
+  "bc_accxia-gmbh": {
+    "name": "Accxia Marketplace Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/accxia-gmbh",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_browserstack-market": {
+    "name": "BrowserStack Inc. Marketplace Managed Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/browserstack-market",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_devsamurai": {
+    "name": "DevSamurai",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/devsamurai",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_moveworkforward": {
+    "name": "Move Work Forward",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/moveworkforward",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_ost-consulting-market": {
+    "name": "OST Consulting SRL Marketplace Managed Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/ost-consulting-market",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_radbee": {
+    "name": "RadBee Ltd.",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/radbee",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_resolutionde": {
+    "name": "Resolution",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/resolutionde",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_toolsplus": {
+    "name": "ToolsPlus",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/toolsplus",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
   }
 }
