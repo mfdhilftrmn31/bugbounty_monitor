@@ -3960,5 +3960,40 @@
     "url": "https://bugcrowd.com/engagements/toolsplus",
     "bounty": true,
     "reward": "Up to $1,500 | Managed"
+  },
+  "bc_FindOut-infovis": {
+    "name": "FindOut InfoVis AB - Marketplace Bug Bounty Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/FindOut-infovis",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_brizoit": {
+    "name": "BrizoIT",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/brizoit",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_caelor-group-market": {
+    "name": "Caelor Group",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/caelor-group-market",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_metainfkft": {
+    "name": "META-INF",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/metainfkft",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_navarambh": {
+    "name": "Navarambh",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/navarambh",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
   }
 }
