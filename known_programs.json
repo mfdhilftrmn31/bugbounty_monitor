@@ -3995,5 +3995,12 @@
     "url": "https://bugcrowd.com/engagements/navarambh",
     "bounty": true,
     "reward": "Up to $1,500 | Managed"
+  },
+  "h1_zabbix": {
+    "name": "Zabbix",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/zabbix",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 69% | Scopes: 1 | Managed"
   }
 }
