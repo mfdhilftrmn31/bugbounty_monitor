@@ -4002,5 +4002,12 @@
     "url": "https://hackerone.com/zabbix",
     "bounty": true,
     "reward": "Severity: critical | Response: 69% | Scopes: 1 | Managed"
+  },
+  "inti_adobepublic": {
+    "name": "Adobe Public",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/adobe/adobepublic/detail",
+    "bounty": true,
+    "reward": "75\u201315,000 USD"
   }
 }
