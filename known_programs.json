@@ -4009,5 +4009,12 @@
     "url": "https://www.intigriti.com/programs/adobe/adobepublic/detail",
     "bounty": true,
     "reward": "75\u201315,000 USD"
+  },
+  "inti_liferaydxp": {
+    "name": "Liferay DXP",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/liferay/liferaydxp/detail",
+    "bounty": true,
+    "reward": "100\u20132,000 USD"
   }
 }
