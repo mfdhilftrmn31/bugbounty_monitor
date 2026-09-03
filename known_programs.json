@@ -4016,5 +4016,40 @@
     "url": "https://www.intigriti.com/programs/liferay/liferaydxp/detail",
     "bounty": true,
     "reward": "100\u20132,000 USD"
+  },
+  "bc_akeles": {
+    "name": "Akeles Marketplace Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/akeles",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_epicsumup": {
+    "name": "APTIS",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/epicsumup",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_okapya": {
+    "name": "Okapya",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/okapya",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_shinetech-software-market": {
+    "name": "Shinetech Software Inc Marketplace Managed Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/shinetech-software-market",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_xopero-software-marketplace": {
+    "name": "Xopero Software S.A. Marketplace Managed Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/xopero-software-marketplace",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
   }
 }
