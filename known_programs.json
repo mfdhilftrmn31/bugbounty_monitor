@@ -4051,5 +4051,12 @@
     "url": "https://bugcrowd.com/engagements/xopero-software-marketplace",
     "bounty": true,
     "reward": "Up to $1,500 | Managed"
+  },
+  "h1_scopely": {
+    "name": "Scopely",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/scopely",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 100% | Scopes: 24 | Managed"
   }
 }
