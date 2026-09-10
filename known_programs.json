@@ -4107,5 +4107,12 @@
     "url": "https://bugcrowd.com/engagements/vectors-marketplace",
     "bounty": true,
     "reward": "Up to $1,500 | Managed"
+  },
+  "bc_digitalrose": {
+    "name": "Digital Rose's Marketplace Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/digitalrose",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
   }
 }
