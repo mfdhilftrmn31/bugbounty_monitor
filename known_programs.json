@@ -4058,5 +4058,54 @@
     "url": "https://hackerone.com/scopely",
     "bounty": true,
     "reward": "Severity: critical | Response: 100% | Scopes: 24 | Managed"
+  },
+  "bc_cappsule-sarl": {
+    "name": "Cappsule Sarl - Marketplace Bug Bounty Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/cappsule-sarl",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_catapultlabs": {
+    "name": "Catapult Labs Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/catapultlabs",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_codecentric": {
+    "name": "codecentric AG - Marketplace Bug Bounty Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/codecentric",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_creativas": {
+    "name": "Creativas",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/creativas",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_railsware": {
+    "name": "Railsware",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/railsware",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_savignano": {
+    "name": "Savignano Software Solutions Marketplace Bug Bounty Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/savignano",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_vectors-marketplace": {
+    "name": "Vectors Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/vectors-marketplace",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
   }
 }
