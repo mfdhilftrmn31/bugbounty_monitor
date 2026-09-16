@@ -4121,5 +4121,19 @@
     "url": "https://hackerone.com/arc-bbp",
     "bounty": true,
     "reward": "Severity: critical | Response: 100% | Scopes: 6 | Managed"
+  },
+  "h1_common_codes": {
+    "name": "d-you App & German EUDI Wallet Ecosystem",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/common_codes",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 0% | Scopes: 7 | Managed"
+  },
+  "inti_veriffbugbounty": {
+    "name": "Veriff Bug Bounty",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/veriff/veriffbugbounty/detail",
+    "bounty": true,
+    "reward": "5\u20136,000 EUR"
   }
 }
