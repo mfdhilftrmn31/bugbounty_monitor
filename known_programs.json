@@ -4114,5 +4114,12 @@
     "url": "https://bugcrowd.com/engagements/digitalrose",
     "bounty": true,
     "reward": "Up to $1,500 | Managed"
+  },
+  "h1_arc-bbp": {
+    "name": "Arc BBP",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/arc-bbp",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 100% | Scopes: 6 | Managed"
   }
 }
