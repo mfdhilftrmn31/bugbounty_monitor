@@ -4135,5 +4135,19 @@
     "url": "https://www.intigriti.com/programs/veriff/veriffbugbounty/detail",
     "bounty": true,
     "reward": "5\u20136,000 EUR"
+  },
+  "h1_vercel": {
+    "name": "Vercel",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/vercel",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 79% | Scopes: 24 | Managed"
+  },
+  "bc_unisys-mbb-og": {
+    "name": "Unisys Managed Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/unisys-mbb-og",
+    "bounty": true,
+    "reward": "Up to $4,500 | Managed"
   }
 }
