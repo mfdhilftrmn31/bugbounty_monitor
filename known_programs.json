@@ -4205,5 +4205,12 @@
     "url": "https://bugcrowd.com/engagements/vicosoft",
     "bounty": true,
     "reward": "Up to $1,500 | Managed"
+  },
+  "h1_kaltura": {
+    "name": "Kaltura",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/kaltura",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 100% | Scopes: 2"
   }
 }
