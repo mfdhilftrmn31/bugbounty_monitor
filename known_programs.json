@@ -4149,5 +4149,61 @@
     "url": "https://bugcrowd.com/engagements/unisys-mbb-og",
     "bounty": true,
     "reward": "Up to $4,500 | Managed"
+  },
+  "bc_vr-group-mbb-og1": {
+    "name": "VR Public Managed Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/vr-group-mbb-og1",
+    "bounty": true,
+    "reward": "Up to $5,000 | Managed"
+  },
+  "bc_agiledoyens-market": {
+    "name": "agile doyens",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/agiledoyens-market",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_deviewstudios-market": {
+    "name": "Deview Studios Marketplace Managed Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/deviewstudios-market",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_herocoders": {
+    "name": "HeroCoders Apps",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/herocoders",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_presago": {
+    "name": "Presago Marketplace Bug Bounty Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/presago",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_revyz": {
+    "name": "Revyz - Marketplace Bug Bounty Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/revyz",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_snapbytes-market": {
+    "name": "Snapbytes Marketplace Managed Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/snapbytes-market",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_vicosoft": {
+    "name": "Vico Marketplace Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/vicosoft",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
   }
 }
