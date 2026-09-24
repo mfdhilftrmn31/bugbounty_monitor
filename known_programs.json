@@ -4212,5 +4212,12 @@
     "url": "https://hackerone.com/kaltura",
     "bounty": true,
     "reward": "Severity: critical | Response: 100% | Scopes: 2"
+  },
+  "h1_live_nation": {
+    "name": "Live Nation",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/live_nation",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 86% | Scopes: 25 | Managed"
   }
 }
