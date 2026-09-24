@@ -4219,5 +4219,12 @@
     "url": "https://hackerone.com/live_nation",
     "bounty": true,
     "reward": "Severity: critical | Response: 86% | Scopes: 25 | Managed"
+  },
+  "h1_algolia": {
+    "name": "Algolia",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/algolia",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 86% | Scopes: 4"
   }
 }
