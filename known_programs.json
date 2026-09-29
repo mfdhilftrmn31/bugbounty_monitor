@@ -4226,5 +4226,12 @@
     "url": "https://hackerone.com/algolia",
     "bounty": true,
     "reward": "Severity: critical | Response: 86% | Scopes: 4"
+  },
+  "h1_walt_bbp": {
+    "name": "Wallet on Telegram",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/walt_bbp",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 97% | Scopes: 10 | Managed"
   }
 }
