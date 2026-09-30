@@ -4240,5 +4240,12 @@
     "url": "https://hackerone.com/walt_io",
     "bounty": true,
     "reward": "Severity: critical | Response: 97% | Scopes: 10 | Managed"
+  },
+  "bc_vinted-uab-mbb": {
+    "name": "Vinted Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/vinted-uab-mbb",
+    "bounty": true,
+    "reward": "Up to $4,000 | Managed"
   }
 }
