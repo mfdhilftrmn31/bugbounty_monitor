@@ -4247,5 +4247,26 @@
     "url": "https://bugcrowd.com/engagements/vinted-uab-mbb",
     "bounty": true,
     "reward": "Up to $4,000 | Managed"
+  },
+  "bc_apps-plus2": {
+    "name": "AI | Apps+ Marketplace Bug Bounty Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/apps-plus2",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_bloompeak": {
+    "name": "Bloompeak's Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/bloompeak",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_meetical": {
+    "name": "Meetical",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/meetical",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
   }
 }
