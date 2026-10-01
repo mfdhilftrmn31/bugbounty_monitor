@@ -4268,5 +4268,12 @@
     "url": "https://bugcrowd.com/engagements/meetical",
     "bounty": true,
     "reward": "Up to $1,500 | Managed"
+  },
+  "h1_omarchy": {
+    "name": "Omarchy",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/omarchy",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 100% | Scopes: 1"
   }
 }
