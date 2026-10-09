@@ -4275,5 +4275,33 @@
     "url": "https://hackerone.com/omarchy",
     "bounty": true,
     "reward": "Severity: critical | Response: 100% | Scopes: 1"
+  },
+  "bc_cvent-bb-og": {
+    "name": "Cvent Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/cvent-bb-og",
+    "bounty": true,
+    "reward": "Up to $3,000 | Managed"
+  },
+  "bc_almarise-market": {
+    "name": "Almarise Marketplace Managed Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/almarise-market",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_avisi": {
+    "name": "Avisi Marketplace Bug Bounty Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/avisi",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_excentia": {
+    "name": "Excentia Bug Bounty",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/excentia",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
   }
 }
