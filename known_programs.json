@@ -4303,5 +4303,12 @@
     "url": "https://bugcrowd.com/engagements/excentia",
     "bounty": true,
     "reward": "Up to $1,500 | Managed"
+  },
+  "bc_decadisag": {
+    "name": "Decadis AG",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/decadisag",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
   }
 }
