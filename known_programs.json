@@ -4310,5 +4310,26 @@
     "url": "https://bugcrowd.com/engagements/decadisag",
     "bounty": true,
     "reward": "Up to $1,500 | Managed"
+  },
+  "bc_amoeboids": {
+    "name": "Amoeboids",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/amoeboids",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_envision-ehf": {
+    "name": "Smart Guess ehf. - Marketplace Bug Bounty Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/envision-ehf",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
+  },
+  "bc_lively-apps": {
+    "name": "Lively Apps GmbH - marketplace Bug Bounty Program",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/lively-apps",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
   }
 }
