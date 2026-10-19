@@ -4331,5 +4331,12 @@
     "url": "https://bugcrowd.com/engagements/lively-apps",
     "bounty": true,
     "reward": "Up to $1,500 | Managed"
+  },
+  "inti_fluvius": {
+    "name": "Fluvius",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/fluvius/fluvius/detail",
+    "bounty": true,
+    "reward": "100\u20135,500 EUR"
   }
 }
