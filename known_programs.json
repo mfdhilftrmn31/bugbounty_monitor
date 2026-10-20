@@ -4338,5 +4338,12 @@
     "url": "https://www.intigriti.com/programs/fluvius/fluvius/detail",
     "bounty": true,
     "reward": "100\u20135,500 EUR"
+  },
+  "inti_lightsparkpublicbugbounty": {
+    "name": "Lightspark Public Bug Bounty",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail",
+    "bounty": true,
+    "reward": "Up to 5,000 USD"
   }
 }
