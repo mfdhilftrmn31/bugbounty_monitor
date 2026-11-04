@@ -4345,5 +4345,12 @@
     "url": "https://www.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail",
     "bounty": true,
     "reward": "Up to 5,000 USD"
+  },
+  "bc_bytera-market": {
+    "name": "Bytera Marketplace Managed Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/bytera-market",
+    "bounty": true,
+    "reward": "Up to $1,500 | Managed"
   }
 }
