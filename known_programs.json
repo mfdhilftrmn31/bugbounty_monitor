@@ -4359,5 +4359,12 @@
     "url": "https://hackerone.com/oasisprotocol",
     "bounty": true,
     "reward": "Severity: critical | Response: 100% | Scopes: 13"
+  },
+  "h1_filezilla": {
+    "name": "FileZilla",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/filezilla",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 0% | Scopes: 5"
   }
 }
