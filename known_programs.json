@@ -4366,5 +4366,12 @@
     "url": "https://hackerone.com/filezilla",
     "bounty": true,
     "reward": "Severity: critical | Response: 0% | Scopes: 5"
+  },
+  "h1_bitmex": {
+    "name": "BitMEX",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/bitmex",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 98% | Scopes: 4 | Managed"
   }
 }
