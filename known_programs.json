@@ -4373,5 +4373,12 @@
     "url": "https://hackerone.com/bitmex",
     "bounty": true,
     "reward": "Severity: critical | Response: 98% | Scopes: 4 | Managed"
+  },
+  "h1_anker": {
+    "name": "Anker",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/anker",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 54% | Scopes: 19 | Managed"
   }
 }
