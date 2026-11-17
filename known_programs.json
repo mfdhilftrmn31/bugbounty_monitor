@@ -4380,5 +4380,12 @@
     "url": "https://hackerone.com/anker",
     "bounty": true,
     "reward": "Severity: critical | Response: 54% | Scopes: 19 | Managed"
+  },
+  "inti_1passwordbugbountyprogram": {
+    "name": "1Password Bug Bounty Program",
+    "platform": "Intigriti",
+    "url": "https://www.intigriti.com/programs/onepassword/1passwordbugbountyprogram/detail",
+    "bounty": true,
+    "reward": "50\u201330,000 USD"
   }
 }
