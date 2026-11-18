@@ -4387,5 +4387,12 @@
     "url": "https://www.intigriti.com/programs/onepassword/1passwordbugbountyprogram/detail",
     "bounty": true,
     "reward": "50\u201330,000 USD"
+  },
+  "h1_coupang": {
+    "name": "Coupang",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/coupang",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 74% | Scopes: 65 | Managed"
   }
 }
