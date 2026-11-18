@@ -4394,5 +4394,12 @@
     "url": "https://hackerone.com/coupang",
     "bounty": true,
     "reward": "Severity: critical | Response: 74% | Scopes: 65 | Managed"
+  },
+  "bc_nord-security-mbb": {
+    "name": "Nord Security Managed Bug Bounty Engagement",
+    "platform": "Bugcrowd",
+    "url": "https://bugcrowd.com/engagements/nord-security-mbb",
+    "bounty": true,
+    "reward": "Up to $50,000 | Managed"
   }
 }
