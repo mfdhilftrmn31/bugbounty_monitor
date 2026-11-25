@@ -4401,5 +4401,12 @@
     "url": "https://bugcrowd.com/engagements/nord-security-mbb",
     "bounty": true,
     "reward": "Up to $50,000 | Managed"
+  },
+  "h1_northerntechhq": {
+    "name": "Northern.tech",
+    "platform": "HackerOne",
+    "url": "https://hackerone.com/northerntechhq",
+    "bounty": true,
+    "reward": "Severity: critical | Response: 100% | Scopes: 5"
   }
 }
